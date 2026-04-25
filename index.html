@@ -1,0 +1,260 @@
+<!DOCTYPE html>
+<html lang="uz">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+    <head>
+        <link rel="icon" type="image/png" href="images/Mentor20.png">
+
+    </head>
+
+    <title>xusniddintech</title>
+    <script src="https://cdn.tailwindcss.com"></script>
+    <link
+        href="https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@1,900&family=Manrope:wght@400;700;800&display=swap"
+        rel="stylesheet">
+    <style>
+        body {
+            background-color: #060b13;
+            /* To'q IT ko'k rangi */
+            color: white;
+            margin: 0;
+            font-family: 'Manrope', sans-serif;
+            overflow-x: hidden;
+        }
+
+        /* 1. IT SOHASIGA MOS FON (Rasm talab qilmaydi, o'zi chizadi) */
+        .bg-layer {
+            position: fixed;
+            top: 0;
+            left: 0;
+            width: 100%;
+            height: 100%;
+            background: radial-gradient(circle at 50% 50%, #0a192f 0%, #060b13 100%);
+            z-index: -10;
+        }
+
+        .bg-layer::before {
+            content: "";
+            position: absolute;
+            top: 0;
+            left: 0;
+            width: 100%;
+            height: 100%;
+            background-image: linear-gradient(rgba(0, 174, 239, 0.05) 1px, transparent 1px),
+                linear-gradient(90deg, rgba(0, 174, 239, 0.05) 1px, transparent 1px);
+            background-size: 30px 30px;
+            /* IT setkasi (Grid) */
+        }
+
+        .logo-wrapper {
+            position: absolute;
+            top: 40px;
+            right: 60px;
+            z-index: 100;
+        }
+
+        .hero-title {
+            font-family: 'Montserrat', sans-serif;
+            font-style: italic;
+            font-weight: 900;
+            line-height: 0.9;
+            letter-spacing: -0.04em;
+            text-transform: uppercase;
+            font-size: clamp(2.5rem, 6vw, 4.5rem);
+        }
+
+        /* 2. PULSATION BADGE (image_ba5367.png kabi) */
+        .training-badge {
+            display: inline-flex;
+            align-items: center;
+            gap: 10px;
+            border: 1.5px solid #22c55e;
+            background-color: rgba(34, 197, 94, 0.1);
+            padding: 8px 20px;
+            border-radius: 50px;
+            margin-bottom: 20px;
+        }
+
+        .pulse-dot {
+            width: 10px;
+            height: 10px;
+            background-color: #22c55e;
+            border-radius: 50%;
+            position: relative;
+        }
+
+        .pulse-dot::after {
+            content: "";
+            position: absolute;
+            width: 100%;
+            height: 100%;
+            background-color: #22c55e;
+            border-radius: 50%;
+            animation: pulse 1.5s infinite;
+        }
+
+        @keyframes pulse {
+            0% {
+                transform: scale(1);
+                opacity: 1;
+            }
+
+            100% {
+                transform: scale(3);
+                opacity: 0;
+            }
+        }
+
+        /* 3. VIZUAL ELEMENTLAR (ODAM VA IMZO) */
+        .visual-container {
+            position: absolute;
+            top: 0;
+            right: 0;
+            width: 50%;
+            height: 100vh;
+            z-index: 10;
+        }
+
+        .person-img {
+            position: absolute;
+            bottom: 0;
+            right: 0;
+            height: 95vh;
+            z-index: 20;
+        }
+
+        .signature-img {
+            position: absolute;
+            /* IMZONI PASTGA TUSHIRISH */
+            top: 550px;
+
+            /* IMZONI CHAPGA SURISH: 180px edi, 280px qildik */
+            /* Raqam qancha katta bo'lsa, shuncha chapga suriladi */
+            right: 280px;
+
+            width: 320px;
+            z-index: 30;
+            transform: rotate(-5deg);
+            pointer-events: none;
+        }
+
+        /* 4. FORMA (image_ba0032.png stili) */
+        .form-card {
+            background: rgba(10, 25, 47, 0.8);
+            backdrop-filter: blur(15px);
+            border: 1px solid rgba(0, 174, 239, 0.3);
+            border-radius: 35px;
+            padding: 40px;
+            max-width: 460px;
+            position: relative;
+            z-index: 60;
+        }
+
+        .input-field {
+            background: white;
+            color: black;
+            font-weight: 800;
+            height: 65px;
+            border-radius: 18px;
+            width: 100%;
+            padding: 0 20px;
+            font-size: 1.1rem;
+            outline: none;
+            margin-bottom: 15px;
+        }
+
+        @media (max-width: 1024px) {
+
+            .visual-container,
+            .logo-wrapper {
+                display: none;
+            }
+
+            .content-box {
+                text-align: center;
+            }
+
+            .form-card {
+                margin: 0 auto;
+            }
+        }
+    </style>
+</head>
+
+<body>
+
+    <div class="bg-layer"></div>
+
+    <div class="logo-wrapper">
+        <img src="images/yuksak.png" alt="Logo" style="width: 160px;">
+    </div>
+
+    <main class="relative min-h-screen flex items-center">
+        <div class="container mx-auto px-6 lg:px-20 relative z-50 content-box">
+            <div class="lg:w-1/2 space-y-6">
+
+                <div class="bg-white text-black font-black px-5 py-2 rounded-xl w-fit mx-auto lg:mx-0 shadow-xl">
+                    📅 27-28-APREL
+                </div>
+
+                <div class="training-badge mx-auto lg:mx-0">
+                    <span class="pulse-dot"></span>
+                    <span class="text-[#22c55e] text-sm font-black uppercase tracking-widest">
+                        2 kunlik Bepul onlayn trening
+                    </span>
+                </div>
+
+                <h1 class="hero-title">
+                    "SAMARALI IT <br> MUTAXASSISI <br> BO'LING"
+                </h1>
+
+                <div class="border-l-4 border-cyan-500 pl-6 max-w-lg mx-auto lg:mx-0">
+                    <p class="text-xl font-bold text-gray-300">
+                        2 kun ichida zamonaviy texnologiyalar va aniq karyera rejasi bilan IT olamida o'z o'rningizni
+                        toping!
+                    </p>
+                </div>
+
+                <div class="form-card">
+                    <form id="itForm">
+                        <input type="text" id="name" placeholder="Ismingizni kiriting" class="input-field" required>
+                        <div class="relative mb-4">
+                            <div
+                                class="absolute left-4 top-1/2 -translate-y-1/2 flex items-center gap-2 border-r pr-3 border-gray-300 h-8">
+                                <img src="https://upload.wikimedia.org/wikipedia/commons/8/84/Flag_of_Uzbekistan.svg"
+                                    class="w-6">
+                                <span class="font-black text-gray-800">+998</span>
+                            </div>
+                            <input type="tel" id="phone" placeholder="00 000 00 00" class="input-field !mb-0 pl-32"
+                                required>
+                        </div>
+
+                        <button type="submit"
+                            class="w-full h-20 bg-[#00aeef] text-white rounded-full font-black text-2xl italic uppercase shadow-lg active:scale-95 transition-all">
+                            Bepul qatnashish
+                        </button>
+                    </form>
+                </div>
+            </div>
+        </div>
+
+        <div class="visual-container">
+            <img src="images/Katta.png" class="person-img" alt="Person">
+            <img src="images/imzo.png" class="signature-img" alt="Signature">
+        </div>
+    </main>
+
+    <script>
+        document.getElementById('itForm').addEventListener('submit', function (e) {
+            e.preventDefault();
+            const telegramLink = "https://t.me/xusniddintech"; // SHUNI O'ZGARTIRING
+            window.open(telegramLink, '_blank');
+            alert("Muvaffaqiyatli! Telegramga o'tilmoqda...");
+        });
+    </script>
+</body>
+
+</html>
