@@ -1,0 +1,101 @@
+{
+ "mood": "tech",
+ "scenes": [
+  {
+   "type": "words",
+   "dur": 3.4,
+   "lines": [
+    [
+     "ChatGPT",
+     "light",
+     "ink"
+    ],
+    [
+     "YOMON",
+     "black",
+     "ink"
+    ],
+    [
+     "JAVOB",
+     "black",
+     "ink"
+    ],
+    [
+     "BERYAPTIMI?",
+     "black",
+     "blue"
+    ]
+   ]
+  },
+  {
+   "type": "words",
+   "dur": 2.4,
+   "lines": [
+    [
+     "muammo",
+     "light",
+     "ink"
+    ],
+    [
+     "PROMPTDA",
+     "black",
+     "blue"
+    ]
+   ]
+  },
+  {
+   "type": "cards",
+   "dur": 4.2,
+   "kicker": "Yaxshi prompt",
+   "title": "FORMULASI",
+   "cards": [
+    "ROL",
+    "VAZIFA",
+    "KONTEKST",
+    "FORMAT"
+   ]
+  },
+  {
+   "type": "number",
+   "dur": 3.2,
+   "num": "1",
+   "head": "ROL",
+   "l1": "Sen tajribali",
+   "l2": "SMM mutaxassisisan"
+  },
+  {
+   "type": "number",
+   "dur": 3.2,
+   "num": "2+3",
+   "head": "VAZIFA + KONTEKST",
+   "l1": "5 ta post g'oyasi yoz.",
+   "l2": "Auditoriya: talabalar"
+  },
+  {
+   "type": "number",
+   "dur": 3.2,
+   "num": "4",
+   "head": "FORMAT",
+   "l1": "Jadval ko'rinishida,",
+   "l2": "har biri 1 jumla"
+  },
+  {
+   "type": "number",
+   "dur": 3.0,
+   "num": "10X",
+   "head": "NATIJA",
+   "l1": "10 barobar",
+   "l2": "yaxshi bo'ladi"
+  },
+  {
+   "type": "subscribe",
+   "dur": 4.6,
+   "title": "SAHIFAMIZGA",
+   "sub": "obuna bo'ling",
+   "handle": "xusniddintech",
+   "button": "Obuna",
+   "thanks": "Yashang!",
+   "tap_at": 2.0
+  }
+ ]
+}
