@@ -1,0 +1,115 @@
+{
+ "date": "2026-11-14",
+ "type": "video",
+ "time": "20:00",
+ "topic": "scratch",
+ "title": "Qahramonni KLAVIATURA BILAN BOSHQARING",
+ "caption": "Qahramonni klaviatura bilan boshqaring 🎬\n\n1) TUGMA BOSILGANDA\n\"O'ng strelka bosilganda\" blokini oling\n\n2) X NI O'ZGARTIR\nO'ngga +10, chapga -10\n\n3) Y NI O'ZGARTIR\nYuqoriga +10, pastga -10\n\n💾 Saqlab qo'ying va do'stingizga yuboring.\n🔔 Har kuni foydali kontent — kuzatib boring.\n\n#scratch #bolalaruchun #dasturlash #xusniddintech #ozbekcha",
+ "media": [
+  "https://raw.githubusercontent.com/xusniddin-del/Xusniddintech/instagram-media/media/2026-11-14.mp4"
+ ],
+ "spec": {
+  "mood": "playful",
+  "scenes": [
+   {
+    "type": "words",
+    "dur": 3.2,
+    "lines": [
+     [
+      "Qahramonni",
+      "light",
+      "ink"
+     ],
+     [
+      "KLAVIATURA",
+      "black",
+      "ink"
+     ],
+     [
+      "BILAN BOSHQARING",
+      "black",
+      "blue"
+     ]
+    ]
+   },
+   {
+    "type": "words",
+    "dur": 2.6,
+    "lines": [
+     [
+      "strelkalar —",
+      "light",
+      "ink"
+     ],
+     [
+      "RUL",
+      "black",
+      "blue"
+     ]
+    ]
+   },
+   {
+    "type": "cards",
+    "dur": 4.2,
+    "kicker": "Tugmalar",
+    "title": "4 YO'NALISH",
+    "cards": [
+     "YUQORI",
+     "PASTGA",
+     "CHAPGA",
+     "O'NGGA"
+    ]
+   },
+   {
+    "type": "number",
+    "dur": 3.3,
+    "num": "1",
+    "head": "TUGMA BOSILGANDA",
+    "l1": "\"O'ng strelka bosilganda\"",
+    "l2": "blokini oling"
+   },
+   {
+    "type": "number",
+    "dur": 3.3,
+    "num": "2",
+    "head": "X NI O'ZGARTIR",
+    "l1": "O'ngga +10",
+    "l2": "chapga -10"
+   },
+   {
+    "type": "number",
+    "dur": 3.3,
+    "num": "3",
+    "head": "Y NI O'ZGARTIR",
+    "l1": "Yuqoriga +10",
+    "l2": "pastga -10"
+   },
+   {
+    "type": "words",
+    "dur": 3.0,
+    "lines": [
+     [
+      "endi o'yin",
+      "light",
+      "ink"
+     ],
+     [
+      "SIZNIKI",
+      "black",
+      "blue"
+     ]
+    ]
+   },
+   {
+    "type": "subscribe",
+    "dur": 4.6,
+    "title": "SAHIFAMIZGA",
+    "sub": "obuna bo'ling",
+    "handle": "xusniddintech",
+    "button": "Obuna",
+    "thanks": "Yashang!",
+    "tap_at": 2.0
+   }
+  ]
+ }
+}

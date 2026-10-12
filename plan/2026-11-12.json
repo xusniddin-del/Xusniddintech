@@ -1,0 +1,110 @@
+{
+ "date": "2026-11-12",
+ "type": "video",
+ "time": "20:30",
+ "topic": "dizayn",
+ "title": "Instagram post XATOLARI",
+ "caption": "Instagram post xatolari 🎬\n\n1) KO'P MATN\nBir postda, bitta asosiy fikr\n\n2) MAYDA SHRIFT\nTelefonda, o'qib bo'lmaydi\n\n3) KO'P RANG\nBrend ranglari, 2-3 ta yetarli\n\n💾 Saqlab qo'ying va do'stingizga yuboring.\n🔔 Har kuni foydali kontent — kuzatib boring.\n\n#grafikdizayn #dizayn #dizayner #xusniddintech #ozbekcha",
+ "media": [
+  "https://raw.githubusercontent.com/xusniddin-del/Xusniddintech/instagram-media/media/2026-11-12.mp4"
+ ],
+ "spec": {
+  "mood": "calm",
+  "scenes": [
+   {
+    "type": "words",
+    "dur": 3.2,
+    "lines": [
+     [
+      "Instagram post",
+      "light",
+      "ink"
+     ],
+     [
+      "XATOLARI",
+      "black",
+      "ink"
+     ]
+    ]
+   },
+   {
+    "type": "words",
+    "dur": 2.6,
+    "lines": [
+     [
+      "ko'pchilik",
+      "light",
+      "ink"
+     ],
+     [
+      "SHUNDAY QILADI",
+      "black",
+      "blue"
+     ]
+    ]
+   },
+   {
+    "type": "cards",
+    "dur": 4.2,
+    "kicker": "Xatolar",
+    "title": "TOP 4",
+    "cards": [
+     "KO'P MATN",
+     "MAYDA SHRIFT",
+     "KO'P RANG",
+     "TARTIBSIZ"
+    ]
+   },
+   {
+    "type": "number",
+    "dur": 3.3,
+    "num": "1",
+    "head": "KO'P MATN",
+    "l1": "Bir postda",
+    "l2": "bitta asosiy fikr"
+   },
+   {
+    "type": "number",
+    "dur": 3.3,
+    "num": "2",
+    "head": "MAYDA SHRIFT",
+    "l1": "Telefonda",
+    "l2": "o'qib bo'lmaydi"
+   },
+   {
+    "type": "number",
+    "dur": 3.3,
+    "num": "3",
+    "head": "KO'P RANG",
+    "l1": "Brend ranglari",
+    "l2": "2-3 ta yetarli"
+   },
+   {
+    "type": "words",
+    "dur": 3.0,
+    "lines": [
+     [
+      "kamroq —",
+      "light",
+      "ink"
+     ],
+     [
+      "KUCHLIROQ",
+      "black",
+      "blue"
+     ]
+    ]
+   },
+   {
+    "type": "subscribe",
+    "dur": 4.6,
+    "title": "SAHIFAMIZGA",
+    "sub": "obuna bo'ling",
+    "handle": "xusniddintech",
+    "button": "Obuna",
+    "thanks": "Yashang!",
+    "tap_at": 2.0
+   }
+  ]
+ }
+}

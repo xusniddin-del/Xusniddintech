@@ -1,0 +1,84 @@
+{
+ "date": "2026-10-21",
+ "type": "carousel",
+ "time": "19:00",
+ "topic": "kiber",
+ "title": "Fishing BELGILARI",
+ "caption": "Fishing belgilari\nSoxta xabarni qanday tanish mumkin 👇\n\n1) SHOSHILTIRISH\n\"24 soatda bloklanadi!\" — bu tuzoq\n\n2) SOXTA LINK\ntelegrarn.org, c1ick.uz, harflarga diqqat qiling\n\n3) SOVG'A VA YUTUQ\n\"Siz iPhone yutdingiz!\" bepul pishloq — qopqonda\n\n4) KOD SO'RASH\nSMS kodni hech kimga, hatto \"bank\"ka ham bermang\n\n5) NOTANISH FAYL\n.apk, .exe yuborilsa, ochmang, o'chiring\n\n💾 Saqlab qo'ying, kerak bo'ladi.\n💬 Sizga shunday xabar kelganmi?\n\n#kiberxavfsizlik #xavfsizlik #parol #xusniddintech #ozbekcha",
+ "media": [
+  "https://raw.githubusercontent.com/xusniddin-del/Xusniddintech/instagram-media/media/2026-10-21/01.jpg",
+  "https://raw.githubusercontent.com/xusniddin-del/Xusniddintech/instagram-media/media/2026-10-21/02.jpg",
+  "https://raw.githubusercontent.com/xusniddin-del/Xusniddintech/instagram-media/media/2026-10-21/03.jpg",
+  "https://raw.githubusercontent.com/xusniddin-del/Xusniddintech/instagram-media/media/2026-10-21/04.jpg",
+  "https://raw.githubusercontent.com/xusniddin-del/Xusniddintech/instagram-media/media/2026-10-21/05.jpg",
+  "https://raw.githubusercontent.com/xusniddin-del/Xusniddintech/instagram-media/media/2026-10-21/06.jpg",
+  "https://raw.githubusercontent.com/xusniddin-del/Xusniddintech/instagram-media/media/2026-10-21/07.jpg"
+ ],
+ "spec": {
+  "pages": [
+   {
+    "type": "cover",
+    "lines": [
+     [
+      "Fishing",
+      "light",
+      "ink"
+     ],
+     [
+      "BELGILARI",
+      "black",
+      "blue"
+     ]
+    ],
+    "sub": "Soxta xabarni qanday tanish mumkin",
+    "cta": "Suring"
+   },
+   {
+    "type": "number",
+    "pill": "01",
+    "num": "1",
+    "head": "SHOSHILTIRISH",
+    "l1": "\"24 soatda bloklanadi!\"",
+    "l2": "— bu tuzoq"
+   },
+   {
+    "type": "number",
+    "pill": "02",
+    "num": "2",
+    "head": "SOXTA LINK",
+    "l1": "telegrarn.org, c1ick.uz",
+    "l2": "harflarga diqqat qiling"
+   },
+   {
+    "type": "number",
+    "pill": "03",
+    "num": "3",
+    "head": "SOVG'A VA YUTUQ",
+    "l1": "\"Siz iPhone yutdingiz!\"",
+    "l2": "bepul pishloq — qopqonda"
+   },
+   {
+    "type": "number",
+    "pill": "04",
+    "num": "4",
+    "head": "KOD SO'RASH",
+    "l1": "SMS kodni hech kimga",
+    "l2": "hatto \"bank\"ka ham bermang"
+   },
+   {
+    "type": "number",
+    "pill": "05",
+    "num": "5",
+    "head": "NOTANISH FAYL",
+    "l1": ".apk, .exe yuborilsa",
+    "l2": "ochmang, o'chiring"
+   },
+   {
+    "type": "cta",
+    "l1": "SAQLAB",
+    "l2": "QO'YING",
+    "q": "Sizga shunday xabar kelganmi?"
+   }
+  ]
+ }
+}

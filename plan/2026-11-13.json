@@ -1,0 +1,84 @@
+{
+ "date": "2026-11-13",
+ "type": "carousel",
+ "time": "18:30",
+ "topic": "uiux",
+ "title": "Shrift tanlash QOIDALARI",
+ "caption": "Shrift tanlash qoidalari\nUI uchun 5 ta maslahat 👇\n\n1) 2 TADAN KO'P EMAS\nSarlavha va matn uchun, 1-2 ta shrift yetarli\n\n2) O'QILISHI\nMatn kamida 16 px, mobil ekranda ham aniq\n\n3) IERARXIYA\nH1, H2, matn — har xil, o'lcham va qalinlikda\n\n4) QATOR ORASI\nLine-height 1.4 — 1.6, matn nafas olsin\n\n5) BEPUL SHRIFTLAR\nInter, Manrope, Roboto, Google Fonts'da bor\n\n💾 Saqlab qo'ying, kerak bo'ladi.\n💬 Siz qaysi shriftni yaxshi ko'rasiz?\n\n#uiux #uidesign #figma #xusniddintech #ozbekcha",
+ "media": [
+  "https://raw.githubusercontent.com/xusniddin-del/Xusniddintech/instagram-media/media/2026-11-13/01.jpg",
+  "https://raw.githubusercontent.com/xusniddin-del/Xusniddintech/instagram-media/media/2026-11-13/02.jpg",
+  "https://raw.githubusercontent.com/xusniddin-del/Xusniddintech/instagram-media/media/2026-11-13/03.jpg",
+  "https://raw.githubusercontent.com/xusniddin-del/Xusniddintech/instagram-media/media/2026-11-13/04.jpg",
+  "https://raw.githubusercontent.com/xusniddin-del/Xusniddintech/instagram-media/media/2026-11-13/05.jpg",
+  "https://raw.githubusercontent.com/xusniddin-del/Xusniddintech/instagram-media/media/2026-11-13/06.jpg",
+  "https://raw.githubusercontent.com/xusniddin-del/Xusniddintech/instagram-media/media/2026-11-13/07.jpg"
+ ],
+ "spec": {
+  "pages": [
+   {
+    "type": "cover",
+    "lines": [
+     [
+      "Shrift tanlash",
+      "light",
+      "ink"
+     ],
+     [
+      "QOIDALARI",
+      "black",
+      "blue"
+     ]
+    ],
+    "sub": "UI uchun 5 ta maslahat",
+    "cta": "Suring"
+   },
+   {
+    "type": "number",
+    "pill": "01",
+    "num": "1",
+    "head": "2 TADAN KO'P EMAS",
+    "l1": "Sarlavha va matn uchun",
+    "l2": "1-2 ta shrift yetarli"
+   },
+   {
+    "type": "number",
+    "pill": "02",
+    "num": "2",
+    "head": "O'QILISHI",
+    "l1": "Matn kamida 16 px",
+    "l2": "mobil ekranda ham aniq"
+   },
+   {
+    "type": "number",
+    "pill": "03",
+    "num": "3",
+    "head": "IERARXIYA",
+    "l1": "H1, H2, matn — har xil",
+    "l2": "o'lcham va qalinlikda"
+   },
+   {
+    "type": "number",
+    "pill": "04",
+    "num": "4",
+    "head": "QATOR ORASI",
+    "l1": "Line-height 1.4 — 1.6",
+    "l2": "matn nafas olsin"
+   },
+   {
+    "type": "number",
+    "pill": "05",
+    "num": "5",
+    "head": "BEPUL SHRIFTLAR",
+    "l1": "Inter, Manrope, Roboto",
+    "l2": "Google Fonts'da bor"
+   },
+   {
+    "type": "cta",
+    "l1": "SAQLAB",
+    "l2": "QO'YING",
+    "q": "Siz qaysi shriftni yaxshi ko'rasiz?"
+   }
+  ]
+ }
+}

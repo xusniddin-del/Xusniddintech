@@ -1,0 +1,84 @@
+{
+ "date": "2026-11-09",
+ "type": "carousel",
+ "time": "19:00",
+ "topic": "komp",
+ "title": "Fayllar TARTIBSIZMI?",
+ "caption": "Fayllar tartibsizmi?\nPapka tizimi sirlari 👇\n\n1) ASOSIY PAPKALAR\nO'qish, Ish, Shaxsiy, hammasi shu 3 tasiga\n\n2) NOM QOIDASI\n2026-10-26_hisobot, sana boshida — tartib o'zi\n\n3) ISH STOLI\nIsh stoli — ombor emas, har hafta tozalang\n\n4) YUKLANMALAR\nDownloads'ni har oy, saralang yoki o'chiring\n\n5) BULUT\nGoogle Drive, OneDrive, muhim fayllar nusxasi\n\n💾 Saqlab qo'ying, kerak bo'ladi.\n💬 Ish stolingizda nechta fayl bor? 😄\n\n#kompyutersavodxonligi #kompyuter #office #xusniddintech #ozbekcha",
+ "media": [
+  "https://raw.githubusercontent.com/xusniddin-del/Xusniddintech/instagram-media/media/2026-11-09/01.jpg",
+  "https://raw.githubusercontent.com/xusniddin-del/Xusniddintech/instagram-media/media/2026-11-09/02.jpg",
+  "https://raw.githubusercontent.com/xusniddin-del/Xusniddintech/instagram-media/media/2026-11-09/03.jpg",
+  "https://raw.githubusercontent.com/xusniddin-del/Xusniddintech/instagram-media/media/2026-11-09/04.jpg",
+  "https://raw.githubusercontent.com/xusniddin-del/Xusniddintech/instagram-media/media/2026-11-09/05.jpg",
+  "https://raw.githubusercontent.com/xusniddin-del/Xusniddintech/instagram-media/media/2026-11-09/06.jpg",
+  "https://raw.githubusercontent.com/xusniddin-del/Xusniddintech/instagram-media/media/2026-11-09/07.jpg"
+ ],
+ "spec": {
+  "pages": [
+   {
+    "type": "cover",
+    "lines": [
+     [
+      "Fayllar",
+      "light",
+      "ink"
+     ],
+     [
+      "TARTIBSIZMI?",
+      "black",
+      "blue"
+     ]
+    ],
+    "sub": "Papka tizimi sirlari",
+    "cta": "Suring"
+   },
+   {
+    "type": "number",
+    "pill": "01",
+    "num": "1",
+    "head": "ASOSIY PAPKALAR",
+    "l1": "O'qish, Ish, Shaxsiy",
+    "l2": "hammasi shu 3 tasiga"
+   },
+   {
+    "type": "number",
+    "pill": "02",
+    "num": "2",
+    "head": "NOM QOIDASI",
+    "l1": "2026-10-26_hisobot",
+    "l2": "sana boshida — tartib o'zi"
+   },
+   {
+    "type": "number",
+    "pill": "03",
+    "num": "3",
+    "head": "ISH STOLI",
+    "l1": "Ish stoli — ombor emas",
+    "l2": "har hafta tozalang"
+   },
+   {
+    "type": "number",
+    "pill": "04",
+    "num": "4",
+    "head": "YUKLANMALAR",
+    "l1": "Downloads'ni har oy",
+    "l2": "saralang yoki o'chiring"
+   },
+   {
+    "type": "number",
+    "pill": "05",
+    "num": "5",
+    "head": "BULUT",
+    "l1": "Google Drive, OneDrive",
+    "l2": "muhim fayllar nusxasi"
+   },
+   {
+    "type": "cta",
+    "l1": "SAQLAB",
+    "l2": "QO'YING",
+    "q": "Ish stolingizda nechta fayl bor? 😄"
+   }
+  ]
+ }
+}

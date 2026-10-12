@@ -1,0 +1,84 @@
+{
+ "date": "2026-11-02",
+ "type": "carousel",
+ "time": "19:00",
+ "topic": "komp",
+ "title": "Kompyuter SEKINLASHDIMI?",
+ "caption": "Kompyuter sekinlashdimi?\n5 ta tez yechim 👇\n\n1) AVTOZAPUSK\nCtrl+Shift+Esc → Startup, keraksizini o'chiring\n\n2) DISK C\nKamida 15% bo'sh joy, Disk Cleanup qiling\n\n3) BRAUZER\n20 ta tab = ko'p RAM, keraksizini yoping\n\n4) YANGILANISH\nWindows va drayverlar, doim yangi bo'lsin\n\n5) SSD\nEng katta tezlik, HDD o'rniga SSD qo'ying\n\n💾 Saqlab qo'ying, kerak bo'ladi.\n💬 Sizning kompyuteringiz necha soniyada yonadi?\n\n#kompyutersavodxonligi #kompyuter #office #xusniddintech #ozbekcha",
+ "media": [
+  "https://raw.githubusercontent.com/xusniddin-del/Xusniddintech/instagram-media/media/2026-11-02/01.jpg",
+  "https://raw.githubusercontent.com/xusniddin-del/Xusniddintech/instagram-media/media/2026-11-02/02.jpg",
+  "https://raw.githubusercontent.com/xusniddin-del/Xusniddintech/instagram-media/media/2026-11-02/03.jpg",
+  "https://raw.githubusercontent.com/xusniddin-del/Xusniddintech/instagram-media/media/2026-11-02/04.jpg",
+  "https://raw.githubusercontent.com/xusniddin-del/Xusniddintech/instagram-media/media/2026-11-02/05.jpg",
+  "https://raw.githubusercontent.com/xusniddin-del/Xusniddintech/instagram-media/media/2026-11-02/06.jpg",
+  "https://raw.githubusercontent.com/xusniddin-del/Xusniddintech/instagram-media/media/2026-11-02/07.jpg"
+ ],
+ "spec": {
+  "pages": [
+   {
+    "type": "cover",
+    "lines": [
+     [
+      "Kompyuter",
+      "light",
+      "ink"
+     ],
+     [
+      "SEKINLASHDIMI?",
+      "black",
+      "blue"
+     ]
+    ],
+    "sub": "5 ta tez yechim",
+    "cta": "Suring"
+   },
+   {
+    "type": "number",
+    "pill": "01",
+    "num": "1",
+    "head": "AVTOZAPUSK",
+    "l1": "Ctrl+Shift+Esc → Startup",
+    "l2": "keraksizini o'chiring"
+   },
+   {
+    "type": "number",
+    "pill": "02",
+    "num": "2",
+    "head": "DISK C",
+    "l1": "Kamida 15% bo'sh joy",
+    "l2": "Disk Cleanup qiling"
+   },
+   {
+    "type": "number",
+    "pill": "03",
+    "num": "3",
+    "head": "BRAUZER",
+    "l1": "20 ta tab = ko'p RAM",
+    "l2": "keraksizini yoping"
+   },
+   {
+    "type": "number",
+    "pill": "04",
+    "num": "4",
+    "head": "YANGILANISH",
+    "l1": "Windows va drayverlar",
+    "l2": "doim yangi bo'lsin"
+   },
+   {
+    "type": "number",
+    "pill": "05",
+    "num": "5",
+    "head": "SSD",
+    "l1": "Eng katta tezlik",
+    "l2": "HDD o'rniga SSD qo'ying"
+   },
+   {
+    "type": "cta",
+    "l1": "SAQLAB",
+    "l2": "QO'YING",
+    "q": "Sizning kompyuteringiz necha soniyada yonadi?"
+   }
+  ]
+ }
+}

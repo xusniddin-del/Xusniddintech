@@ -1,0 +1,120 @@
+{
+ "date": "2026-10-22",
+ "type": "video",
+ "time": "20:30",
+ "topic": "dizayn",
+ "title": "Shriftlarni TO'G'RI JUFTLANG",
+ "caption": "Shriftlarni to'g'ri juftlang 🎬\n\n1) SERIF + SANS\nPlayfair sarlavhaga, Inter matnga\n\n2) QALINLIK\nSarlavha qalin, matn oddiy\n\n3) BITTA OILA\nBitta shriftning, har xil og'irligi\n\n💾 Saqlab qo'ying va do'stingizga yuboring.\n🔔 Har kuni foydali kontent — kuzatib boring.\n\n#grafikdizayn #dizayn #dizayner #xusniddintech #ozbekcha",
+ "media": [
+  "https://raw.githubusercontent.com/xusniddin-del/Xusniddintech/instagram-media/media/2026-10-22.mp4"
+ ],
+ "spec": {
+  "mood": "calm",
+  "scenes": [
+   {
+    "type": "words",
+    "dur": 3.2,
+    "lines": [
+     [
+      "Shriftlarni",
+      "light",
+      "ink"
+     ],
+     [
+      "TO'G'RI",
+      "black",
+      "ink"
+     ],
+     [
+      "JUFTLANG",
+      "black",
+      "blue"
+     ]
+    ]
+   },
+   {
+    "type": "words",
+    "dur": 2.6,
+    "lines": [
+     [
+      "2 ta shrift —",
+      "light",
+      "ink"
+     ],
+     [
+      "YETARLI",
+      "black",
+      "blue"
+     ]
+    ]
+   },
+   {
+    "type": "cards",
+    "dur": 4.2,
+    "kicker": "Juftlik",
+    "title": "QOIDASI",
+    "cards": [
+     "SARLAVHA",
+     "MATN",
+     "KONTRAST",
+     "UYG'UNLIK"
+    ]
+   },
+   {
+    "type": "number",
+    "dur": 3.3,
+    "num": "1",
+    "head": "SERIF + SANS",
+    "l1": "Playfair sarlavhaga",
+    "l2": "Inter matnga"
+   },
+   {
+    "type": "number",
+    "dur": 3.3,
+    "num": "2",
+    "head": "QALINLIK",
+    "l1": "Sarlavha qalin,",
+    "l2": "matn oddiy"
+   },
+   {
+    "type": "number",
+    "dur": 3.3,
+    "num": "3",
+    "head": "BITTA OILA",
+    "l1": "Bitta shriftning",
+    "l2": "har xil og'irligi"
+   },
+   {
+    "type": "words",
+    "dur": 3.0,
+    "lines": [
+     [
+      "3 tadan ko'p",
+      "light",
+      "ink"
+     ],
+     [
+      "SHRIFT",
+      "black",
+      "ink"
+     ],
+     [
+      "ISHLATMANG",
+      "black",
+      "blue"
+     ]
+    ]
+   },
+   {
+    "type": "subscribe",
+    "dur": 4.6,
+    "title": "SAHIFAMIZGA",
+    "sub": "obuna bo'ling",
+    "handle": "xusniddintech",
+    "button": "Obuna",
+    "thanks": "Yashang!",
+    "tap_at": 2.0
+   }
+  ]
+ }
+}

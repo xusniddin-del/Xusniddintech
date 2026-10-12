@@ -1,0 +1,84 @@
+{
+ "date": "2026-11-25",
+ "type": "carousel",
+ "time": "19:00",
+ "topic": "kiber",
+ "title": "Ma'lumotlarni YO'QOTMANG",
+ "caption": "Ma'lumotlarni yo'qotmang\n3-2-1 zaxira qoidasi 👇\n\n1) 3 NUSXA\nMuhim fayl — 3 ta nusxada saqlansin\n\n2) 2 XIL JOY\nKompyuter + fleshka, yoki tashqi disk\n\n3) 1 TASI UZOQDA\nBulut: Google Drive, OneDrive, iCloud\n\n4) AVTOMATIK\nZaxirani avto, rejimga qo'ying\n\n5) TEKSHIRING\nOyiga bir marta, fayl ochilishini sinang\n\n💾 Saqlab qo'ying, kerak bo'ladi.\n💬 Siz oxirgi marta qachon zaxira qilgansiz?\n\n#kiberxavfsizlik #xavfsizlik #parol #xusniddintech #ozbekcha",
+ "media": [
+  "https://raw.githubusercontent.com/xusniddin-del/Xusniddintech/instagram-media/media/2026-11-25/01.jpg",
+  "https://raw.githubusercontent.com/xusniddin-del/Xusniddintech/instagram-media/media/2026-11-25/02.jpg",
+  "https://raw.githubusercontent.com/xusniddin-del/Xusniddintech/instagram-media/media/2026-11-25/03.jpg",
+  "https://raw.githubusercontent.com/xusniddin-del/Xusniddintech/instagram-media/media/2026-11-25/04.jpg",
+  "https://raw.githubusercontent.com/xusniddin-del/Xusniddintech/instagram-media/media/2026-11-25/05.jpg",
+  "https://raw.githubusercontent.com/xusniddin-del/Xusniddintech/instagram-media/media/2026-11-25/06.jpg",
+  "https://raw.githubusercontent.com/xusniddin-del/Xusniddintech/instagram-media/media/2026-11-25/07.jpg"
+ ],
+ "spec": {
+  "pages": [
+   {
+    "type": "cover",
+    "lines": [
+     [
+      "Ma'lumotlarni",
+      "light",
+      "ink"
+     ],
+     [
+      "YO'QOTMANG",
+      "black",
+      "blue"
+     ]
+    ],
+    "sub": "3-2-1 zaxira qoidasi",
+    "cta": "Suring"
+   },
+   {
+    "type": "number",
+    "pill": "01",
+    "num": "1",
+    "head": "3 NUSXA",
+    "l1": "Muhim fayl —",
+    "l2": "3 ta nusxada saqlansin"
+   },
+   {
+    "type": "number",
+    "pill": "02",
+    "num": "2",
+    "head": "2 XIL JOY",
+    "l1": "Kompyuter + fleshka",
+    "l2": "yoki tashqi disk"
+   },
+   {
+    "type": "number",
+    "pill": "03",
+    "num": "3",
+    "head": "1 TASI UZOQDA",
+    "l1": "Bulut: Google Drive,",
+    "l2": "OneDrive, iCloud"
+   },
+   {
+    "type": "number",
+    "pill": "04",
+    "num": "4",
+    "head": "AVTOMATIK",
+    "l1": "Zaxirani avto",
+    "l2": "rejimga qo'ying"
+   },
+   {
+    "type": "number",
+    "pill": "05",
+    "num": "5",
+    "head": "TEKSHIRING",
+    "l1": "Oyiga bir marta",
+    "l2": "fayl ochilishini sinang"
+   },
+   {
+    "type": "cta",
+    "l1": "SAQLAB",
+    "l2": "QO'YING",
+    "q": "Siz oxirgi marta qachon zaxira qilgansiz?"
+   }
+  ]
+ }
+}

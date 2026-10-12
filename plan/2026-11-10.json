@@ -1,0 +1,120 @@
+{
+ "date": "2026-11-10",
+ "type": "video",
+ "time": "20:30",
+ "topic": "ai",
+ "title": "Ovozni AI YARATADI",
+ "caption": "Ovozni AI yaratadi 🎬\n\n1) ELEVENLABS\nMatnni tabiiy ovozga, aylantiradi\n\n2) WHISPER\nOvozni matnga, yozib beradi\n\n3) SUNO\nBir gapdan, butun qo'shiq\n\n💾 Saqlab qo'ying va do'stingizga yuboring.\n🔔 Har kuni foydali kontent — kuzatib boring.\n\n#suniyintellekt #ai #chatgpt #xusniddintech #ozbekcha",
+ "media": [
+  "https://raw.githubusercontent.com/xusniddin-del/Xusniddintech/instagram-media/media/2026-11-10.mp4"
+ ],
+ "spec": {
+  "mood": "tech",
+  "scenes": [
+   {
+    "type": "words",
+    "dur": 3.2,
+    "lines": [
+     [
+      "Ovozni",
+      "light",
+      "ink"
+     ],
+     [
+      "AI",
+      "black",
+      "ink"
+     ],
+     [
+      "YARATADI",
+      "black",
+      "blue"
+     ]
+    ]
+   },
+   {
+    "type": "words",
+    "dur": 2.6,
+    "lines": [
+     [
+      "matndan —",
+      "light",
+      "ink"
+     ],
+     [
+      "NUTQQA",
+      "black",
+      "blue"
+     ]
+    ]
+   },
+   {
+    "type": "cards",
+    "dur": 4.2,
+    "kicker": "Ovoz uchun",
+    "title": "AI'LAR",
+    "cards": [
+     "ELEVENLABS",
+     "SUNO",
+     "WHISPER",
+     "NOTEBOOKLM"
+    ]
+   },
+   {
+    "type": "number",
+    "dur": 3.3,
+    "num": "1",
+    "head": "ELEVENLABS",
+    "l1": "Matnni tabiiy ovozga",
+    "l2": "aylantiradi"
+   },
+   {
+    "type": "number",
+    "dur": 3.3,
+    "num": "2",
+    "head": "WHISPER",
+    "l1": "Ovozni matnga",
+    "l2": "yozib beradi"
+   },
+   {
+    "type": "number",
+    "dur": 3.3,
+    "num": "3",
+    "head": "SUNO",
+    "l1": "Bir gapdan",
+    "l2": "butun qo'shiq"
+   },
+   {
+    "type": "words",
+    "dur": 3.0,
+    "lines": [
+     [
+      "begona ovozni",
+      "light",
+      "ink"
+     ],
+     [
+      "RUXSATSIZ",
+      "black",
+      "ink"
+     ],
+     [
+      "ISHLATMANG",
+      "black",
+      "blue"
+     ]
+    ]
+   },
+   {
+    "type": "subscribe",
+    "dur": 4.6,
+    "title": "SAHIFAMIZGA",
+    "sub": "obuna bo'ling",
+    "handle": "xusniddintech",
+    "button": "Obuna",
+    "thanks": "Yashang!",
+    "tap_at": 2.0
+   }
+  ]
+ }
+}

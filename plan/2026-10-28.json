@@ -1,0 +1,84 @@
+{
+ "date": "2026-10-28",
+ "type": "carousel",
+ "time": "19:00",
+ "topic": "kiber",
+ "title": "Telegram'ni HIMOYA QILING",
+ "caption": "Telegram'ni himoya qiling\n5 ta sozlama — 3 daqiqa 👇\n\n1) IKKI BOSQICHLI\nMaxfiylik → 2-bosqich, parol qo'ying\n\n2) SEANSLAR\nQurilmalar ro'yxatini, tekshiring, begonani o'chiring\n\n3) RAQAMNI YASHIRING\nTelefon raqam → \"Hech kim\"\n\n4) GURUHLAR\nKim qo'sha oladi → \"Kontaktlarim\"\n\n5) KOD\nLogin kodini hech kimga, aytmang — hech qachon\n\n💾 Saqlab qo'ying, kerak bo'ladi.\n💬 2-bosqichli parolni yoqdingizmi?\n\n#kiberxavfsizlik #xavfsizlik #parol #xusniddintech #ozbekcha",
+ "media": [
+  "https://raw.githubusercontent.com/xusniddin-del/Xusniddintech/instagram-media/media/2026-10-28/01.jpg",
+  "https://raw.githubusercontent.com/xusniddin-del/Xusniddintech/instagram-media/media/2026-10-28/02.jpg",
+  "https://raw.githubusercontent.com/xusniddin-del/Xusniddintech/instagram-media/media/2026-10-28/03.jpg",
+  "https://raw.githubusercontent.com/xusniddin-del/Xusniddintech/instagram-media/media/2026-10-28/04.jpg",
+  "https://raw.githubusercontent.com/xusniddin-del/Xusniddintech/instagram-media/media/2026-10-28/05.jpg",
+  "https://raw.githubusercontent.com/xusniddin-del/Xusniddintech/instagram-media/media/2026-10-28/06.jpg",
+  "https://raw.githubusercontent.com/xusniddin-del/Xusniddintech/instagram-media/media/2026-10-28/07.jpg"
+ ],
+ "spec": {
+  "pages": [
+   {
+    "type": "cover",
+    "lines": [
+     [
+      "Telegram'ni",
+      "light",
+      "ink"
+     ],
+     [
+      "HIMOYA QILING",
+      "black",
+      "blue"
+     ]
+    ],
+    "sub": "5 ta sozlama — 3 daqiqa",
+    "cta": "Suring"
+   },
+   {
+    "type": "number",
+    "pill": "01",
+    "num": "1",
+    "head": "IKKI BOSQICHLI",
+    "l1": "Maxfiylik → 2-bosqich",
+    "l2": "parol qo'ying"
+   },
+   {
+    "type": "number",
+    "pill": "02",
+    "num": "2",
+    "head": "SEANSLAR",
+    "l1": "Qurilmalar ro'yxatini",
+    "l2": "tekshiring, begonani o'chiring"
+   },
+   {
+    "type": "number",
+    "pill": "03",
+    "num": "3",
+    "head": "RAQAMNI YASHIRING",
+    "l1": "Telefon raqam →",
+    "l2": "\"Hech kim\""
+   },
+   {
+    "type": "number",
+    "pill": "04",
+    "num": "4",
+    "head": "GURUHLAR",
+    "l1": "Kim qo'sha oladi →",
+    "l2": "\"Kontaktlarim\""
+   },
+   {
+    "type": "number",
+    "pill": "05",
+    "num": "5",
+    "head": "KOD",
+    "l1": "Login kodini hech kimga",
+    "l2": "aytmang — hech qachon"
+   },
+   {
+    "type": "cta",
+    "l1": "SAQLAB",
+    "l2": "QO'YING",
+    "q": "2-bosqichli parolni yoqdingizmi?"
+   }
+  ]
+ }
+}

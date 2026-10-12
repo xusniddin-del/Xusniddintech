@@ -1,0 +1,84 @@
+{
+ "date": "2026-11-06",
+ "type": "carousel",
+ "time": "18:30",
+ "topic": "uiux",
+ "title": "Tartibli dizayn 8 PX TIZIMI",
+ "caption": "Tartibli dizayn 8 px tizimi\nProfessional maketlarning siri 👇\n\n1) NIMA BU?\nBarcha o'lchamlar 8 ga, karrali: 8, 16, 24, 32\n\n2) NEGA 8?\nKo'p ekranlarga mos, oson bo'linadi, aniq ko'rinadi\n\n3) ICHKI MASOFA\nTugma ichida 16 px, kartochkada 24 px\n\n4) TASHQI MASOFA\nBloklar orasi 32-48 px, bo'limlar orasi 64+\n\n5) FIGMA'DA\nNudge = 8 qilib qo'ying, Shift + strelka 8 px suradi\n\n💾 Saqlab qo'ying, kerak bo'ladi.\n💬 Siz qaysi tizim bilan ishlaysiz?\n\n#uiux #uidesign #figma #xusniddintech #ozbekcha",
+ "media": [
+  "https://raw.githubusercontent.com/xusniddin-del/Xusniddintech/instagram-media/media/2026-11-06/01.jpg",
+  "https://raw.githubusercontent.com/xusniddin-del/Xusniddintech/instagram-media/media/2026-11-06/02.jpg",
+  "https://raw.githubusercontent.com/xusniddin-del/Xusniddintech/instagram-media/media/2026-11-06/03.jpg",
+  "https://raw.githubusercontent.com/xusniddin-del/Xusniddintech/instagram-media/media/2026-11-06/04.jpg",
+  "https://raw.githubusercontent.com/xusniddin-del/Xusniddintech/instagram-media/media/2026-11-06/05.jpg",
+  "https://raw.githubusercontent.com/xusniddin-del/Xusniddintech/instagram-media/media/2026-11-06/06.jpg",
+  "https://raw.githubusercontent.com/xusniddin-del/Xusniddintech/instagram-media/media/2026-11-06/07.jpg"
+ ],
+ "spec": {
+  "pages": [
+   {
+    "type": "cover",
+    "lines": [
+     [
+      "Tartibli dizayn",
+      "light",
+      "ink"
+     ],
+     [
+      "8 PX TIZIMI",
+      "black",
+      "blue"
+     ]
+    ],
+    "sub": "Professional maketlarning siri",
+    "cta": "Suring"
+   },
+   {
+    "type": "number",
+    "pill": "01",
+    "num": "1",
+    "head": "NIMA BU?",
+    "l1": "Barcha o'lchamlar 8 ga",
+    "l2": "karrali: 8, 16, 24, 32"
+   },
+   {
+    "type": "number",
+    "pill": "02",
+    "num": "2",
+    "head": "NEGA 8?",
+    "l1": "Ko'p ekranlarga mos",
+    "l2": "oson bo'linadi, aniq ko'rinadi"
+   },
+   {
+    "type": "number",
+    "pill": "03",
+    "num": "3",
+    "head": "ICHKI MASOFA",
+    "l1": "Tugma ichida 16 px",
+    "l2": "kartochkada 24 px"
+   },
+   {
+    "type": "number",
+    "pill": "04",
+    "num": "4",
+    "head": "TASHQI MASOFA",
+    "l1": "Bloklar orasi 32-48 px",
+    "l2": "bo'limlar orasi 64+"
+   },
+   {
+    "type": "number",
+    "pill": "05",
+    "num": "5",
+    "head": "FIGMA'DA",
+    "l1": "Nudge = 8 qilib qo'ying",
+    "l2": "Shift + strelka 8 px suradi"
+   },
+   {
+    "type": "cta",
+    "l1": "SAQLAB",
+    "l2": "QO'YING",
+    "q": "Siz qaysi tizim bilan ishlaysiz?"
+   }
+  ]
+ }
+}

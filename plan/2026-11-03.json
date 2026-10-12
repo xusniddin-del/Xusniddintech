@@ -1,0 +1,115 @@
+{
+ "date": "2026-11-03",
+ "type": "video",
+ "time": "20:30",
+ "topic": "ai",
+ "title": "AI bilan 2 BAROBAR TEZ O'QING",
+ "caption": "AI bilan 2 barobar tez o'qing 🎬\n\n1) XULOSA\n\"Shu matnni 5 punktda, qisqacha tushuntir\"\n\n2) TEST\n\"Mavzu bo'yicha 10 ta, savol tuz\"\n\n3) SODDA TIL\n\"12 yoshli bolaga, tushuntirgandek ayt\"\n\n💾 Saqlab qo'ying va do'stingizga yuboring.\n🔔 Har kuni foydali kontent — kuzatib boring.\n\n#suniyintellekt #ai #chatgpt #xusniddintech #ozbekcha",
+ "media": [
+  "https://raw.githubusercontent.com/xusniddin-del/Xusniddintech/instagram-media/media/2026-11-03.mp4"
+ ],
+ "spec": {
+  "mood": "tech",
+  "scenes": [
+   {
+    "type": "words",
+    "dur": 3.2,
+    "lines": [
+     [
+      "AI bilan",
+      "light",
+      "ink"
+     ],
+     [
+      "2 BAROBAR",
+      "black",
+      "ink"
+     ],
+     [
+      "TEZ O'QING",
+      "black",
+      "blue"
+     ]
+    ]
+   },
+   {
+    "type": "words",
+    "dur": 2.6,
+    "lines": [
+     [
+      "ko'chirmang —",
+      "light",
+      "ink"
+     ],
+     [
+      "TUSHUNING",
+      "black",
+      "blue"
+     ]
+    ]
+   },
+   {
+    "type": "cards",
+    "dur": 4.2,
+    "kicker": "O'qish uchun",
+    "title": "AI USULLARI",
+    "cards": [
+     "XULOSA",
+     "TEST",
+     "MISOL",
+     "REJA"
+    ]
+   },
+   {
+    "type": "number",
+    "dur": 3.3,
+    "num": "1",
+    "head": "XULOSA",
+    "l1": "\"Shu matnni 5 punktda",
+    "l2": "qisqacha tushuntir\""
+   },
+   {
+    "type": "number",
+    "dur": 3.3,
+    "num": "2",
+    "head": "TEST",
+    "l1": "\"Mavzu bo'yicha 10 ta",
+    "l2": "savol tuz\""
+   },
+   {
+    "type": "number",
+    "dur": 3.3,
+    "num": "3",
+    "head": "SODDA TIL",
+    "l1": "\"12 yoshli bolaga",
+    "l2": "tushuntirgandek ayt\""
+   },
+   {
+    "type": "words",
+    "dur": 3.0,
+    "lines": [
+     [
+      "AI — ustoz emas,",
+      "light",
+      "ink"
+     ],
+     [
+      "YORDAMCHI",
+      "black",
+      "blue"
+     ]
+    ]
+   },
+   {
+    "type": "subscribe",
+    "dur": 4.6,
+    "title": "SAHIFAMIZGA",
+    "sub": "obuna bo'ling",
+    "handle": "xusniddintech",
+    "button": "Obuna",
+    "thanks": "Yashang!",
+    "tap_at": 2.0
+   }
+  ]
+ }
+}

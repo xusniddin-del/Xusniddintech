@@ -1,0 +1,115 @@
+{
+ "date": "2026-11-01",
+ "type": "video",
+ "time": "19:30",
+ "topic": "vibe",
+ "title": "Yaxshi kod PROMPT FORMULASI",
+ "caption": "Yaxshi kod prompt formulasi 🎬\n\n1) MAQSAD\nDastur nima qiladi, kim uchun\n\n2) TEXNOLOGIYA\nHTML, Python, React — aniq ayting\n\n3) BOSQICHMA-BOSQICH\nBirdan hammasini emas, kichik qadamlar\n\n💾 Saqlab qo'ying va do'stingizga yuboring.\n🔔 Har kuni foydali kontent — kuzatib boring.\n\n#vibecoding #dasturlash #ai #xusniddintech #ozbekcha",
+ "media": [
+  "https://raw.githubusercontent.com/xusniddin-del/Xusniddintech/instagram-media/media/2026-11-01.mp4"
+ ],
+ "spec": {
+  "mood": "tech",
+  "scenes": [
+   {
+    "type": "words",
+    "dur": 3.2,
+    "lines": [
+     [
+      "Yaxshi kod",
+      "light",
+      "ink"
+     ],
+     [
+      "PROMPT",
+      "black",
+      "ink"
+     ],
+     [
+      "FORMULASI",
+      "black",
+      "blue"
+     ]
+    ]
+   },
+   {
+    "type": "words",
+    "dur": 2.6,
+    "lines": [
+     [
+      "aniqroq —",
+      "light",
+      "ink"
+     ],
+     [
+      "YAXSHIROQ",
+      "black",
+      "blue"
+     ]
+    ]
+   },
+   {
+    "type": "cards",
+    "dur": 4.2,
+    "kicker": "Prompt",
+    "title": "4 QISM",
+    "cards": [
+     "MAQSAD",
+     "TEXNOLOGIYA",
+     "MISOL",
+     "CHEKLOV"
+    ]
+   },
+   {
+    "type": "number",
+    "dur": 3.3,
+    "num": "1",
+    "head": "MAQSAD",
+    "l1": "Dastur nima qiladi",
+    "l2": "kim uchun"
+   },
+   {
+    "type": "number",
+    "dur": 3.3,
+    "num": "2",
+    "head": "TEXNOLOGIYA",
+    "l1": "HTML, Python, React —",
+    "l2": "aniq ayting"
+   },
+   {
+    "type": "number",
+    "dur": 3.3,
+    "num": "3",
+    "head": "BOSQICHMA-BOSQICH",
+    "l1": "Birdan hammasini emas",
+    "l2": "kichik qadamlar"
+   },
+   {
+    "type": "words",
+    "dur": 3.0,
+    "lines": [
+     [
+      "bitta prompt —",
+      "light",
+      "ink"
+     ],
+     [
+      "BITTA VAZIFA",
+      "black",
+      "blue"
+     ]
+    ]
+   },
+   {
+    "type": "subscribe",
+    "dur": 4.6,
+    "title": "SAHIFAMIZGA",
+    "sub": "obuna bo'ling",
+    "handle": "xusniddintech",
+    "button": "Obuna",
+    "thanks": "Yashang!",
+    "tap_at": 2.0
+   }
+  ]
+ }
+}

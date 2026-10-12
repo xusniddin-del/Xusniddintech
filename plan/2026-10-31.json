@@ -1,0 +1,115 @@
+{
+ "date": "2026-10-31",
+ "type": "video",
+ "time": "20:00",
+ "topic": "scratch",
+ "title": "Qahramon QANDAY YURADI?",
+ "caption": "Qahramon qanday yuradi? 🎬\n\n1) KOSTYUMLAR\nHar bir sprayt, bir nechta rasmga ega\n\n2) KEYINGI KOSTYUM\nBlokni \"doimo\" ichiga qo'ying\n\n3) KUTISH\n0.2 soniya kuting, harakat silliq bo'ladi\n\n💾 Saqlab qo'ying va do'stingizga yuboring.\n🔔 Har kuni foydali kontent — kuzatib boring.\n\n#scratch #bolalaruchun #dasturlash #xusniddintech #ozbekcha",
+ "media": [
+  "https://raw.githubusercontent.com/xusniddin-del/Xusniddintech/instagram-media/media/2026-10-31.mp4"
+ ],
+ "spec": {
+  "mood": "playful",
+  "scenes": [
+   {
+    "type": "words",
+    "dur": 3.2,
+    "lines": [
+     [
+      "Qahramon",
+      "light",
+      "ink"
+     ],
+     [
+      "QANDAY",
+      "black",
+      "ink"
+     ],
+     [
+      "YURADI?",
+      "black",
+      "blue"
+     ]
+    ]
+   },
+   {
+    "type": "words",
+    "dur": 2.6,
+    "lines": [
+     [
+      "sir —",
+      "light",
+      "ink"
+     ],
+     [
+      "KOSTYUMLARDA",
+      "black",
+      "blue"
+     ]
+    ]
+   },
+   {
+    "type": "cards",
+    "dur": 4.2,
+    "kicker": "Kostyum",
+    "title": "ANIMATSIYA",
+    "cards": [
+     "KOSTYUM",
+     "KEYINGISI",
+     "KUTISH",
+     "TAKROR"
+    ]
+   },
+   {
+    "type": "number",
+    "dur": 3.3,
+    "num": "1",
+    "head": "KOSTYUMLAR",
+    "l1": "Har bir sprayt",
+    "l2": "bir nechta rasmga ega"
+   },
+   {
+    "type": "number",
+    "dur": 3.3,
+    "num": "2",
+    "head": "KEYINGI KOSTYUM",
+    "l1": "Blokni \"doimo\"",
+    "l2": "ichiga qo'ying"
+   },
+   {
+    "type": "number",
+    "dur": 3.3,
+    "num": "3",
+    "head": "KUTISH",
+    "l1": "0.2 soniya kuting",
+    "l2": "harakat silliq bo'ladi"
+   },
+   {
+    "type": "words",
+    "dur": 3.0,
+    "lines": [
+     [
+      "rasm almashadi —",
+      "light",
+      "ink"
+     ],
+     [
+      "JONLANADI",
+      "black",
+      "blue"
+     ]
+    ]
+   },
+   {
+    "type": "subscribe",
+    "dur": 4.6,
+    "title": "SAHIFAMIZGA",
+    "sub": "obuna bo'ling",
+    "handle": "xusniddintech",
+    "button": "Obuna",
+    "thanks": "Yashang!",
+    "tap_at": 2.0
+   }
+  ]
+ }
+}

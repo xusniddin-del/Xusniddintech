@@ -1,0 +1,84 @@
+{
+ "date": "2026-10-26",
+ "type": "carousel",
+ "time": "19:00",
+ "topic": "komp",
+ "title": "Excel'ning 5 TA FORMULASI",
+ "caption": "Excel'ning 5 ta formulasi\nHar kuni kerak bo'ladi 👇\n\n1) SUM\n=SUM(A1:A10), ustunni qo'shib beradi\n\n2) AVERAGE\n=AVERAGE(B1:B10), o'rtacha qiymat\n\n3) IF\n=IF(C1>50;\"O'tdi\";\"Yiqildi\"), shartga qarab javob\n\n4) VLOOKUP\nJadvaldan qidirish, ism bo'yicha bahoni topish\n\n5) COUNTIF\n=COUNTIF(D:D;\"Ha\"), nechta \"Ha\" borligini sanaydi\n\n💾 Saqlab qo'ying, kerak bo'ladi.\n💬 Qaysi formulani ko'p ishlatasiz?\n\n#kompyutersavodxonligi #kompyuter #office #xusniddintech #ozbekcha",
+ "media": [
+  "https://raw.githubusercontent.com/xusniddin-del/Xusniddintech/instagram-media/media/2026-10-26/01.jpg",
+  "https://raw.githubusercontent.com/xusniddin-del/Xusniddintech/instagram-media/media/2026-10-26/02.jpg",
+  "https://raw.githubusercontent.com/xusniddin-del/Xusniddintech/instagram-media/media/2026-10-26/03.jpg",
+  "https://raw.githubusercontent.com/xusniddin-del/Xusniddintech/instagram-media/media/2026-10-26/04.jpg",
+  "https://raw.githubusercontent.com/xusniddin-del/Xusniddintech/instagram-media/media/2026-10-26/05.jpg",
+  "https://raw.githubusercontent.com/xusniddin-del/Xusniddintech/instagram-media/media/2026-10-26/06.jpg",
+  "https://raw.githubusercontent.com/xusniddin-del/Xusniddintech/instagram-media/media/2026-10-26/07.jpg"
+ ],
+ "spec": {
+  "pages": [
+   {
+    "type": "cover",
+    "lines": [
+     [
+      "Excel'ning",
+      "light",
+      "ink"
+     ],
+     [
+      "5 TA FORMULASI",
+      "black",
+      "blue"
+     ]
+    ],
+    "sub": "Har kuni kerak bo'ladi",
+    "cta": "Suring"
+   },
+   {
+    "type": "number",
+    "pill": "01",
+    "num": "1",
+    "head": "SUM",
+    "l1": "=SUM(A1:A10)",
+    "l2": "ustunni qo'shib beradi"
+   },
+   {
+    "type": "number",
+    "pill": "02",
+    "num": "2",
+    "head": "AVERAGE",
+    "l1": "=AVERAGE(B1:B10)",
+    "l2": "o'rtacha qiymat"
+   },
+   {
+    "type": "number",
+    "pill": "03",
+    "num": "3",
+    "head": "IF",
+    "l1": "=IF(C1>50;\"O'tdi\";\"Yiqildi\")",
+    "l2": "shartga qarab javob"
+   },
+   {
+    "type": "number",
+    "pill": "04",
+    "num": "4",
+    "head": "VLOOKUP",
+    "l1": "Jadvaldan qidirish",
+    "l2": "ism bo'yicha bahoni topish"
+   },
+   {
+    "type": "number",
+    "pill": "05",
+    "num": "5",
+    "head": "COUNTIF",
+    "l1": "=COUNTIF(D:D;\"Ha\")",
+    "l2": "nechta \"Ha\" borligini sanaydi"
+   },
+   {
+    "type": "cta",
+    "l1": "SAQLAB",
+    "l2": "QO'YING",
+    "q": "Qaysi formulani ko'p ishlatasiz?"
+   }
+  ]
+ }
+}

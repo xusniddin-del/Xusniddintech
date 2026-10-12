@@ -1,0 +1,120 @@
+{
+ "date": "2026-11-07",
+ "type": "video",
+ "time": "20:00",
+ "topic": "scratch",
+ "title": "O'yinga BALL QO'SHAMIZ",
+ "caption": "O'yinga ball qo'shamiz 🎬\n\n1) YARATING\nO'zgaruvchilar → \"Ball\" nomli yangi\n\n2) NOLGA\nBoshida \"Ball\"ni, 0 ga tenglang\n\n3) QO'SHING\nTegsa → \"Ball\"ni, 1 ga o'zgartiring\n\n💾 Saqlab qo'ying va do'stingizga yuboring.\n🔔 Har kuni foydali kontent — kuzatib boring.\n\n#scratch #bolalaruchun #dasturlash #xusniddintech #ozbekcha",
+ "media": [
+  "https://raw.githubusercontent.com/xusniddin-del/Xusniddintech/instagram-media/media/2026-11-07.mp4"
+ ],
+ "spec": {
+  "mood": "playful",
+  "scenes": [
+   {
+    "type": "words",
+    "dur": 3.2,
+    "lines": [
+     [
+      "O'yinga",
+      "light",
+      "ink"
+     ],
+     [
+      "BALL",
+      "black",
+      "ink"
+     ],
+     [
+      "QO'SHAMIZ",
+      "black",
+      "blue"
+     ]
+    ]
+   },
+   {
+    "type": "words",
+    "dur": 2.6,
+    "lines": [
+     [
+      "bu —",
+      "light",
+      "ink"
+     ],
+     [
+      "O'ZGARUVCHI",
+      "black",
+      "blue"
+     ]
+    ]
+   },
+   {
+    "type": "cards",
+    "dur": 4.2,
+    "kicker": "Ball tizimi",
+    "title": "QADAMLAR",
+    "cards": [
+     "YARATISH",
+     "NOL",
+     "QO'SHISH",
+     "KO'RSATISH"
+    ]
+   },
+   {
+    "type": "number",
+    "dur": 3.3,
+    "num": "1",
+    "head": "YARATING",
+    "l1": "O'zgaruvchilar →",
+    "l2": "\"Ball\" nomli yangi"
+   },
+   {
+    "type": "number",
+    "dur": 3.3,
+    "num": "2",
+    "head": "NOLGA",
+    "l1": "Boshida \"Ball\"ni",
+    "l2": "0 ga tenglang"
+   },
+   {
+    "type": "number",
+    "dur": 3.3,
+    "num": "3",
+    "head": "QO'SHING",
+    "l1": "Tegsa → \"Ball\"ni",
+    "l2": "1 ga o'zgartiring"
+   },
+   {
+    "type": "words",
+    "dur": 3.0,
+    "lines": [
+     [
+      "endi",
+      "light",
+      "ink"
+     ],
+     [
+      "REKORD",
+      "black",
+      "ink"
+     ],
+     [
+      "QO'YING",
+      "black",
+      "blue"
+     ]
+    ]
+   },
+   {
+    "type": "subscribe",
+    "dur": 4.6,
+    "title": "SAHIFAMIZGA",
+    "sub": "obuna bo'ling",
+    "handle": "xusniddintech",
+    "button": "Obuna",
+    "thanks": "Yashang!",
+    "tap_at": 2.0
+   }
+  ]
+ }
+}

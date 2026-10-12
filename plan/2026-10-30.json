@@ -1,0 +1,84 @@
+{
+ "date": "2026-10-30",
+ "type": "carousel",
+ "time": "18:30",
+ "topic": "uiux",
+ "title": "Figma SHORTCUTLAR",
+ "caption": "Figma shortcutlar\nIshingizni 2 barobar tezlashtiring 👇\n\n1) FRAME\nF — yangi frame, ekran o'lchamini tanlang\n\n2) AUTO LAYOUT\nShift + A, elementlar o'zi joylashadi\n\n3) KOMPONENT\nCtrl + Alt + K, bir marta yasang, ko'p ishlating\n\n4) MASOFA\nAlt bosib turing, elementlar orasini ko'rasiz\n\n5) NUSXA\nCtrl + D, tanlanganni takrorlash\n\n💾 Saqlab qo'ying, kerak bo'ladi.\n💬 Sizning sevimli shortcutingiz qaysi?\n\n#uiux #uidesign #figma #xusniddintech #ozbekcha",
+ "media": [
+  "https://raw.githubusercontent.com/xusniddin-del/Xusniddintech/instagram-media/media/2026-10-30/01.jpg",
+  "https://raw.githubusercontent.com/xusniddin-del/Xusniddintech/instagram-media/media/2026-10-30/02.jpg",
+  "https://raw.githubusercontent.com/xusniddin-del/Xusniddintech/instagram-media/media/2026-10-30/03.jpg",
+  "https://raw.githubusercontent.com/xusniddin-del/Xusniddintech/instagram-media/media/2026-10-30/04.jpg",
+  "https://raw.githubusercontent.com/xusniddin-del/Xusniddintech/instagram-media/media/2026-10-30/05.jpg",
+  "https://raw.githubusercontent.com/xusniddin-del/Xusniddintech/instagram-media/media/2026-10-30/06.jpg",
+  "https://raw.githubusercontent.com/xusniddin-del/Xusniddintech/instagram-media/media/2026-10-30/07.jpg"
+ ],
+ "spec": {
+  "pages": [
+   {
+    "type": "cover",
+    "lines": [
+     [
+      "Figma",
+      "light",
+      "ink"
+     ],
+     [
+      "SHORTCUTLAR",
+      "black",
+      "blue"
+     ]
+    ],
+    "sub": "Ishingizni 2 barobar tezlashtiring",
+    "cta": "Suring"
+   },
+   {
+    "type": "number",
+    "pill": "01",
+    "num": "1",
+    "head": "FRAME",
+    "l1": "F — yangi frame",
+    "l2": "ekran o'lchamini tanlang"
+   },
+   {
+    "type": "number",
+    "pill": "02",
+    "num": "2",
+    "head": "AUTO LAYOUT",
+    "l1": "Shift + A",
+    "l2": "elementlar o'zi joylashadi"
+   },
+   {
+    "type": "number",
+    "pill": "03",
+    "num": "3",
+    "head": "KOMPONENT",
+    "l1": "Ctrl + Alt + K",
+    "l2": "bir marta yasang, ko'p ishlating"
+   },
+   {
+    "type": "number",
+    "pill": "04",
+    "num": "4",
+    "head": "MASOFA",
+    "l1": "Alt bosib turing",
+    "l2": "elementlar orasini ko'rasiz"
+   },
+   {
+    "type": "number",
+    "pill": "05",
+    "num": "5",
+    "head": "NUSXA",
+    "l1": "Ctrl + D",
+    "l2": "tanlanganni takrorlash"
+   },
+   {
+    "type": "cta",
+    "l1": "SAQLAB",
+    "l2": "QO'YING",
+    "q": "Sizning sevimli shortcutingiz qaysi?"
+   }
+  ]
+ }
+}

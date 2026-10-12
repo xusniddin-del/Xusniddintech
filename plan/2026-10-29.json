@@ -1,0 +1,120 @@
+{
+ "date": "2026-10-29",
+ "type": "video",
+ "time": "20:30",
+ "topic": "dizayn",
+ "title": "Kompozitsiya UCHDAN BIR QOIDASI",
+ "caption": "Kompozitsiya uchdan bir qoidasi 🎬\n\n1) SETKA\nEkranni 3x3 ga, bo'ling\n\n2) KESISHMA\nAsosiy obyekt, chiziqlar kesishgan joyda\n\n3) BO'SH JOY\nQolgan qism, nafas uchun\n\n💾 Saqlab qo'ying va do'stingizga yuboring.\n🔔 Har kuni foydali kontent — kuzatib boring.\n\n#grafikdizayn #dizayn #dizayner #xusniddintech #ozbekcha",
+ "media": [
+  "https://raw.githubusercontent.com/xusniddin-del/Xusniddintech/instagram-media/media/2026-10-29.mp4"
+ ],
+ "spec": {
+  "mood": "calm",
+  "scenes": [
+   {
+    "type": "words",
+    "dur": 3.2,
+    "lines": [
+     [
+      "Kompozitsiya",
+      "light",
+      "ink"
+     ],
+     [
+      "UCHDAN BIR",
+      "black",
+      "ink"
+     ],
+     [
+      "QOIDASI",
+      "black",
+      "blue"
+     ]
+    ]
+   },
+   {
+    "type": "words",
+    "dur": 2.6,
+    "lines": [
+     [
+      "markazda emas —",
+      "light",
+      "ink"
+     ],
+     [
+      "CHIZIQDA",
+      "black",
+      "blue"
+     ]
+    ]
+   },
+   {
+    "type": "cards",
+    "dur": 4.2,
+    "kicker": "Setka",
+    "title": "3 X 3",
+    "cards": [
+     "CHIZIQ",
+     "NUQTA",
+     "FOKUS",
+     "BO'SH JOY"
+    ]
+   },
+   {
+    "type": "number",
+    "dur": 3.3,
+    "num": "1",
+    "head": "SETKA",
+    "l1": "Ekranni 3x3 ga",
+    "l2": "bo'ling"
+   },
+   {
+    "type": "number",
+    "dur": 3.3,
+    "num": "2",
+    "head": "KESISHMA",
+    "l1": "Asosiy obyekt",
+    "l2": "chiziqlar kesishgan joyda"
+   },
+   {
+    "type": "number",
+    "dur": 3.3,
+    "num": "3",
+    "head": "BO'SH JOY",
+    "l1": "Qolgan qism",
+    "l2": "nafas uchun"
+   },
+   {
+    "type": "words",
+    "dur": 3.0,
+    "lines": [
+     [
+      "kameradagi",
+      "light",
+      "ink"
+     ],
+     [
+      "SETKANI",
+      "black",
+      "ink"
+     ],
+     [
+      "YOQING",
+      "black",
+      "blue"
+     ]
+    ]
+   },
+   {
+    "type": "subscribe",
+    "dur": 4.6,
+    "title": "SAHIFAMIZGA",
+    "sub": "obuna bo'ling",
+    "handle": "xusniddintech",
+    "button": "Obuna",
+    "thanks": "Yashang!",
+    "tap_at": 2.0
+   }
+  ]
+ }
+}

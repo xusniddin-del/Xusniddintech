@@ -1,0 +1,115 @@
+{
+ "date": "2026-11-15",
+ "type": "video",
+ "time": "19:30",
+ "topic": "vibe",
+ "title": "Xato chiqdimi? AI TUZATADI",
+ "caption": "Xato chiqdimi? AI tuzatadi 🎬\n\n1) TO'LIQ XATO\nXato matnini, to'liq nusxalab bering\n\n2) NIMA QILDINGIZ\nQaysi tugmani bosganda, xato chiqdi\n\n3) SABABINI SO'RANG\n\"Nega bo'ldi?\" — keyingi safar o'zingiz bilasiz\n\n💾 Saqlab qo'ying va do'stingizga yuboring.\n🔔 Har kuni foydali kontent — kuzatib boring.\n\n#vibecoding #dasturlash #ai #xusniddintech #ozbekcha",
+ "media": [
+  "https://raw.githubusercontent.com/xusniddin-del/Xusniddintech/instagram-media/media/2026-11-15.mp4"
+ ],
+ "spec": {
+  "mood": "tech",
+  "scenes": [
+   {
+    "type": "words",
+    "dur": 3.2,
+    "lines": [
+     [
+      "Xato chiqdimi?",
+      "light",
+      "ink"
+     ],
+     [
+      "AI",
+      "black",
+      "ink"
+     ],
+     [
+      "TUZATADI",
+      "black",
+      "blue"
+     ]
+    ]
+   },
+   {
+    "type": "words",
+    "dur": 2.6,
+    "lines": [
+     [
+      "faqat to'g'ri",
+      "light",
+      "ink"
+     ],
+     [
+      "SO'RANG",
+      "black",
+      "blue"
+     ]
+    ]
+   },
+   {
+    "type": "cards",
+    "dur": 4.2,
+    "kicker": "Xato",
+    "title": "TUZATISH",
+    "cards": [
+     "XATO MATNI",
+     "KONTEKST",
+     "NATIJA",
+     "SABAB"
+    ]
+   },
+   {
+    "type": "number",
+    "dur": 3.3,
+    "num": "1",
+    "head": "TO'LIQ XATO",
+    "l1": "Xato matnini",
+    "l2": "to'liq nusxalab bering"
+   },
+   {
+    "type": "number",
+    "dur": 3.3,
+    "num": "2",
+    "head": "NIMA QILDINGIZ",
+    "l1": "Qaysi tugmani bosganda",
+    "l2": "xato chiqdi"
+   },
+   {
+    "type": "number",
+    "dur": 3.3,
+    "num": "3",
+    "head": "SABABINI SO'RANG",
+    "l1": "\"Nega bo'ldi?\" —",
+    "l2": "keyingi safar o'zingiz bilasiz"
+   },
+   {
+    "type": "words",
+    "dur": 3.0,
+    "lines": [
+     [
+      "har xato —",
+      "light",
+      "ink"
+     ],
+     [
+      "DARS",
+      "black",
+      "blue"
+     ]
+    ]
+   },
+   {
+    "type": "subscribe",
+    "dur": 4.6,
+    "title": "SAHIFAMIZGA",
+    "sub": "obuna bo'ling",
+    "handle": "xusniddintech",
+    "button": "Obuna",
+    "thanks": "Yashang!",
+    "tap_at": 2.0
+   }
+  ]
+ }
+}

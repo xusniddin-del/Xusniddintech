@@ -1,0 +1,84 @@
+{
+ "date": "2026-10-19",
+ "type": "carousel",
+ "time": "19:00",
+ "topic": "komp",
+ "title": "Word'dagi SIRLI TUGMALAR",
+ "caption": "Word'dagi sirli tugmalar\nKo'pchilik bilmaydi 👇\n\n1) STILLAR\nSarlavha 1, Sarlavha 2, mundarija o'zi yasaladi\n\n2) YANGI SAHIFA\nCtrl + Enter, Enter'ni bosib o'tirmang\n\n3) FORMAT PAINTER\nUslubni nusxalash, bitta bosishda boshqa joyga\n\n4) F4\nOxirgi amalni takrorlash, rang, shrift — hammasi\n\n5) QIDIRISH\nCtrl + H, so'zni bir zumda almashtiring\n\n💾 Saqlab qo'ying, kerak bo'ladi.\n💬 Qaysi birini bilmagan edingiz?\n\n#kompyutersavodxonligi #kompyuter #office #xusniddintech #ozbekcha",
+ "media": [
+  "https://raw.githubusercontent.com/xusniddin-del/Xusniddintech/instagram-media/media/2026-10-19/01.jpg",
+  "https://raw.githubusercontent.com/xusniddin-del/Xusniddintech/instagram-media/media/2026-10-19/02.jpg",
+  "https://raw.githubusercontent.com/xusniddin-del/Xusniddintech/instagram-media/media/2026-10-19/03.jpg",
+  "https://raw.githubusercontent.com/xusniddin-del/Xusniddintech/instagram-media/media/2026-10-19/04.jpg",
+  "https://raw.githubusercontent.com/xusniddin-del/Xusniddintech/instagram-media/media/2026-10-19/05.jpg",
+  "https://raw.githubusercontent.com/xusniddin-del/Xusniddintech/instagram-media/media/2026-10-19/06.jpg",
+  "https://raw.githubusercontent.com/xusniddin-del/Xusniddintech/instagram-media/media/2026-10-19/07.jpg"
+ ],
+ "spec": {
+  "pages": [
+   {
+    "type": "cover",
+    "lines": [
+     [
+      "Word'dagi",
+      "light",
+      "ink"
+     ],
+     [
+      "SIRLI TUGMALAR",
+      "black",
+      "blue"
+     ]
+    ],
+    "sub": "Ko'pchilik bilmaydi",
+    "cta": "Suring"
+   },
+   {
+    "type": "number",
+    "pill": "01",
+    "num": "1",
+    "head": "STILLAR",
+    "l1": "Sarlavha 1, Sarlavha 2",
+    "l2": "mundarija o'zi yasaladi"
+   },
+   {
+    "type": "number",
+    "pill": "02",
+    "num": "2",
+    "head": "YANGI SAHIFA",
+    "l1": "Ctrl + Enter",
+    "l2": "Enter'ni bosib o'tirmang"
+   },
+   {
+    "type": "number",
+    "pill": "03",
+    "num": "3",
+    "head": "FORMAT PAINTER",
+    "l1": "Uslubni nusxalash",
+    "l2": "bitta bosishda boshqa joyga"
+   },
+   {
+    "type": "number",
+    "pill": "04",
+    "num": "4",
+    "head": "F4",
+    "l1": "Oxirgi amalni takrorlash",
+    "l2": "rang, shrift — hammasi"
+   },
+   {
+    "type": "number",
+    "pill": "05",
+    "num": "5",
+    "head": "QIDIRISH",
+    "l1": "Ctrl + H",
+    "l2": "so'zni bir zumda almashtiring"
+   },
+   {
+    "type": "cta",
+    "l1": "SAQLAB",
+    "l2": "QO'YING",
+    "q": "Qaysi birini bilmagan edingiz?"
+   }
+  ]
+ }
+}

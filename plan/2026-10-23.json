@@ -1,0 +1,84 @@
+{
+ "date": "2026-10-23",
+ "type": "carousel",
+ "time": "18:30",
+ "topic": "uiux",
+ "title": "Yaxshi tugma QOIDALARI",
+ "caption": "Yaxshi tugma qoidalari\nHar bir dizayner bilishi shart 👇\n\n1) KATTA BO'LSIN\nKamida 44 px balandlik, barmoq bilan oson bosilsin\n\n2) ANIQ MATN\n\"OK\" emas — \"Saqlash\" nima bo'lishini ayting\n\n3) BITTA ASOSIY\nEkranda 1 ta asosiy tugma, qolganlari ikkinchi darajali\n\n4) HOLATLARI\nOddiy, hover, bosilgan, va o'chirilgan holat\n\n5) KONTRAST\nFon bilan aniq ajralsin, 4.5:1 nisbatdan kam emas\n\n💾 Saqlab qo'ying, kerak bo'ladi.\n💬 Qaysi qoidani buzib kelgansiz?\n\n#uiux #uidesign #figma #xusniddintech #ozbekcha",
+ "media": [
+  "https://raw.githubusercontent.com/xusniddin-del/Xusniddintech/instagram-media/media/2026-10-23/01.jpg",
+  "https://raw.githubusercontent.com/xusniddin-del/Xusniddintech/instagram-media/media/2026-10-23/02.jpg",
+  "https://raw.githubusercontent.com/xusniddin-del/Xusniddintech/instagram-media/media/2026-10-23/03.jpg",
+  "https://raw.githubusercontent.com/xusniddin-del/Xusniddintech/instagram-media/media/2026-10-23/04.jpg",
+  "https://raw.githubusercontent.com/xusniddin-del/Xusniddintech/instagram-media/media/2026-10-23/05.jpg",
+  "https://raw.githubusercontent.com/xusniddin-del/Xusniddintech/instagram-media/media/2026-10-23/06.jpg",
+  "https://raw.githubusercontent.com/xusniddin-del/Xusniddintech/instagram-media/media/2026-10-23/07.jpg"
+ ],
+ "spec": {
+  "pages": [
+   {
+    "type": "cover",
+    "lines": [
+     [
+      "Yaxshi tugma",
+      "light",
+      "ink"
+     ],
+     [
+      "QOIDALARI",
+      "black",
+      "blue"
+     ]
+    ],
+    "sub": "Har bir dizayner bilishi shart",
+    "cta": "Suring"
+   },
+   {
+    "type": "number",
+    "pill": "01",
+    "num": "1",
+    "head": "KATTA BO'LSIN",
+    "l1": "Kamida 44 px balandlik",
+    "l2": "barmoq bilan oson bosilsin"
+   },
+   {
+    "type": "number",
+    "pill": "02",
+    "num": "2",
+    "head": "ANIQ MATN",
+    "l1": "\"OK\" emas — \"Saqlash\"",
+    "l2": "nima bo'lishini ayting"
+   },
+   {
+    "type": "number",
+    "pill": "03",
+    "num": "3",
+    "head": "BITTA ASOSIY",
+    "l1": "Ekranda 1 ta asosiy tugma",
+    "l2": "qolganlari ikkinchi darajali"
+   },
+   {
+    "type": "number",
+    "pill": "04",
+    "num": "4",
+    "head": "HOLATLARI",
+    "l1": "Oddiy, hover, bosilgan",
+    "l2": "va o'chirilgan holat"
+   },
+   {
+    "type": "number",
+    "pill": "05",
+    "num": "5",
+    "head": "KONTRAST",
+    "l1": "Fon bilan aniq ajralsin",
+    "l2": "4.5:1 nisbatdan kam emas"
+   },
+   {
+    "type": "cta",
+    "l1": "SAQLAB",
+    "l2": "QO'YING",
+    "q": "Qaysi qoidani buzib kelgansiz?"
+   }
+  ]
+ }
+}

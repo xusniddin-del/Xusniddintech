@@ -1,0 +1,115 @@
+{
+ "date": "2026-11-08",
+ "type": "video",
+ "time": "19:30",
+ "topic": "vibe",
+ "title": "Vibe coding ASBOBLARI",
+ "caption": "Vibe coding asboblari 🎬\n\n1) LOVABLE\nSaytni brauzerda, noldan yasaydi\n\n2) CURSOR\nAI bilan ishlaydigan, kod muharriri\n\n3) CLAUDE CODE\nTerminalda ishlaydi, katta loyihalar uchun\n\n💾 Saqlab qo'ying va do'stingizga yuboring.\n🔔 Har kuni foydali kontent — kuzatib boring.\n\n#vibecoding #dasturlash #ai #xusniddintech #ozbekcha",
+ "media": [
+  "https://raw.githubusercontent.com/xusniddin-del/Xusniddintech/instagram-media/media/2026-11-08.mp4"
+ ],
+ "spec": {
+  "mood": "tech",
+  "scenes": [
+   {
+    "type": "words",
+    "dur": 3.2,
+    "lines": [
+     [
+      "Vibe coding",
+      "light",
+      "ink"
+     ],
+     [
+      "ASBOBLARI",
+      "black",
+      "ink"
+     ]
+    ]
+   },
+   {
+    "type": "words",
+    "dur": 2.6,
+    "lines": [
+     [
+      "qaysi biri",
+      "light",
+      "ink"
+     ],
+     [
+      "SIZGA MOS?",
+      "black",
+      "blue"
+     ]
+    ]
+   },
+   {
+    "type": "cards",
+    "dur": 4.2,
+    "kicker": "Asboblar",
+    "title": "TOP 4",
+    "cards": [
+     "CLAUDE CODE",
+     "CURSOR",
+     "LOVABLE",
+     "REPLIT"
+    ]
+   },
+   {
+    "type": "number",
+    "dur": 3.3,
+    "num": "1",
+    "head": "LOVABLE",
+    "l1": "Saytni brauzerda",
+    "l2": "noldan yasaydi"
+   },
+   {
+    "type": "number",
+    "dur": 3.3,
+    "num": "2",
+    "head": "CURSOR",
+    "l1": "AI bilan ishlaydigan",
+    "l2": "kod muharriri"
+   },
+   {
+    "type": "number",
+    "dur": 3.3,
+    "num": "3",
+    "head": "CLAUDE CODE",
+    "l1": "Terminalda ishlaydi",
+    "l2": "katta loyihalar uchun"
+   },
+   {
+    "type": "words",
+    "dur": 3.0,
+    "lines": [
+     [
+      "asbob emas —",
+      "light",
+      "ink"
+     ],
+     [
+      "G'OYA",
+      "black",
+      "ink"
+     ],
+     [
+      "MUHIM",
+      "black",
+      "blue"
+     ]
+    ]
+   },
+   {
+    "type": "subscribe",
+    "dur": 4.6,
+    "title": "SAHIFAMIZGA",
+    "sub": "obuna bo'ling",
+    "handle": "xusniddintech",
+    "button": "Obuna",
+    "thanks": "Yashang!",
+    "tap_at": 2.0
+   }
+  ]
+ }
+}

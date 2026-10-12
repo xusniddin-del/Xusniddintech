@@ -1,0 +1,84 @@
+{
+ "date": "2026-11-30",
+ "type": "carousel",
+ "time": "19:00",
+ "topic": "komp",
+ "title": "Google Docs IMKONIYATLARI",
+ "caption": "Google Docs imkoniyatlari\nWord'dan qolishmaydi 👇\n\n1) BIRGA ISHLASH\nBir hujjatda, bir nechta odam yozadi\n\n2) OVOZ BILAN\nCtrl+Shift+S, gapiring — o'zi yozadi\n\n3) TARIX\nVersiyalar tarixi, eski holatga qaytish\n\n4) IZOHLAR\nCtrl+Alt+M, matnga izoh qoldirish\n\n5) OFFLINE\nInternetsiz ham, yozish mumkin\n\n💾 Saqlab qo'ying, kerak bo'ladi.\n💬 Siz Word'ni tanlaysizmi yoki Google Docs'ni?\n\n#kompyutersavodxonligi #kompyuter #office #xusniddintech #ozbekcha",
+ "media": [
+  "https://raw.githubusercontent.com/xusniddin-del/Xusniddintech/instagram-media/media/2026-11-30/01.jpg",
+  "https://raw.githubusercontent.com/xusniddin-del/Xusniddintech/instagram-media/media/2026-11-30/02.jpg",
+  "https://raw.githubusercontent.com/xusniddin-del/Xusniddintech/instagram-media/media/2026-11-30/03.jpg",
+  "https://raw.githubusercontent.com/xusniddin-del/Xusniddintech/instagram-media/media/2026-11-30/04.jpg",
+  "https://raw.githubusercontent.com/xusniddin-del/Xusniddintech/instagram-media/media/2026-11-30/05.jpg",
+  "https://raw.githubusercontent.com/xusniddin-del/Xusniddintech/instagram-media/media/2026-11-30/06.jpg",
+  "https://raw.githubusercontent.com/xusniddin-del/Xusniddintech/instagram-media/media/2026-11-30/07.jpg"
+ ],
+ "spec": {
+  "pages": [
+   {
+    "type": "cover",
+    "lines": [
+     [
+      "Google Docs",
+      "light",
+      "ink"
+     ],
+     [
+      "IMKONIYATLARI",
+      "black",
+      "blue"
+     ]
+    ],
+    "sub": "Word'dan qolishmaydi",
+    "cta": "Suring"
+   },
+   {
+    "type": "number",
+    "pill": "01",
+    "num": "1",
+    "head": "BIRGA ISHLASH",
+    "l1": "Bir hujjatda",
+    "l2": "bir nechta odam yozadi"
+   },
+   {
+    "type": "number",
+    "pill": "02",
+    "num": "2",
+    "head": "OVOZ BILAN",
+    "l1": "Ctrl+Shift+S",
+    "l2": "gapiring — o'zi yozadi"
+   },
+   {
+    "type": "number",
+    "pill": "03",
+    "num": "3",
+    "head": "TARIX",
+    "l1": "Versiyalar tarixi",
+    "l2": "eski holatga qaytish"
+   },
+   {
+    "type": "number",
+    "pill": "04",
+    "num": "4",
+    "head": "IZOHLAR",
+    "l1": "Ctrl+Alt+M",
+    "l2": "matnga izoh qoldirish"
+   },
+   {
+    "type": "number",
+    "pill": "05",
+    "num": "5",
+    "head": "OFFLINE",
+    "l1": "Internetsiz ham",
+    "l2": "yozish mumkin"
+   },
+   {
+    "type": "cta",
+    "l1": "SAQLAB",
+    "l2": "QO'YING",
+    "q": "Siz Word'ni tanlaysizmi yoki Google Docs'ni?"
+   }
+  ]
+ }
+}

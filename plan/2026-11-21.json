@@ -1,0 +1,120 @@
+{
+ "date": "2026-11-21",
+ "type": "video",
+ "time": "20:00",
+ "topic": "scratch",
+ "title": "Labirint O'YINI YASAYMIZ",
+ "caption": "Labirint o'yini yasaymiz 🎬\n\n1) FON CHIZING\nLabirintni, bitta rangda chizing\n\n2) RANGGA TEGSA\n\"Rangga tegyaptimi?\" → boshlang'ich joyga\n\n3) FINISH\nFinishga tegsa → \"G'alaba!\" deydi\n\n💾 Saqlab qo'ying va do'stingizga yuboring.\n🔔 Har kuni foydali kontent — kuzatib boring.\n\n#scratch #bolalaruchun #dasturlash #xusniddintech #ozbekcha",
+ "media": [
+  "https://raw.githubusercontent.com/xusniddin-del/Xusniddintech/instagram-media/media/2026-11-21.mp4"
+ ],
+ "spec": {
+  "mood": "playful",
+  "scenes": [
+   {
+    "type": "words",
+    "dur": 3.2,
+    "lines": [
+     [
+      "Labirint",
+      "light",
+      "ink"
+     ],
+     [
+      "O'YINI",
+      "black",
+      "ink"
+     ],
+     [
+      "YASAYMIZ",
+      "black",
+      "blue"
+     ]
+    ]
+   },
+   {
+    "type": "words",
+    "dur": 2.6,
+    "lines": [
+     [
+      "devorga tegsang —",
+      "light",
+      "ink"
+     ],
+     [
+      "BOSHIGA",
+      "black",
+      "blue"
+     ]
+    ]
+   },
+   {
+    "type": "cards",
+    "dur": 4.2,
+    "kicker": "Labirint",
+    "title": "KERAK",
+    "cards": [
+     "LABIRINT",
+     "QAHRAMON",
+     "DEVOR RANGI",
+     "FINISH"
+    ]
+   },
+   {
+    "type": "number",
+    "dur": 3.3,
+    "num": "1",
+    "head": "FON CHIZING",
+    "l1": "Labirintni",
+    "l2": "bitta rangda chizing"
+   },
+   {
+    "type": "number",
+    "dur": 3.3,
+    "num": "2",
+    "head": "RANGGA TEGSA",
+    "l1": "\"Rangga tegyaptimi?\"",
+    "l2": "→ boshlang'ich joyga"
+   },
+   {
+    "type": "number",
+    "dur": 3.3,
+    "num": "3",
+    "head": "FINISH",
+    "l1": "Finishga tegsa →",
+    "l2": "\"G'alaba!\" deydi"
+   },
+   {
+    "type": "words",
+    "dur": 3.0,
+    "lines": [
+     [
+      "do'stingizni",
+      "light",
+      "ink"
+     ],
+     [
+      "SINAB",
+      "black",
+      "ink"
+     ],
+     [
+      "KO'RING",
+      "black",
+      "blue"
+     ]
+    ]
+   },
+   {
+    "type": "subscribe",
+    "dur": 4.6,
+    "title": "SAHIFAMIZGA",
+    "sub": "obuna bo'ling",
+    "handle": "xusniddintech",
+    "button": "Obuna",
+    "thanks": "Yashang!",
+    "tap_at": 2.0
+   }
+  ]
+ }
+}

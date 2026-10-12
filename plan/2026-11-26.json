@@ -1,0 +1,120 @@
+{
+ "date": "2026-11-26",
+ "type": "video",
+ "time": "20:30",
+ "topic": "dizayn",
+ "title": "Dizayner uchun BEPUL RESURSLAR",
+ "caption": "Dizayner uchun bepul resurslar 🎬\n\n1) UNSPLASH\nSifatli bepul, fotosuratlar\n\n2) GOOGLE FONTS\n1500+ bepul, shriftlar\n\n3) ICONIFY\n200 mingdan ortiq, ikonka\n\n💾 Saqlab qo'ying va do'stingizga yuboring.\n🔔 Har kuni foydali kontent — kuzatib boring.\n\n#grafikdizayn #dizayn #dizayner #xusniddintech #ozbekcha",
+ "media": [
+  "https://raw.githubusercontent.com/xusniddin-del/Xusniddintech/instagram-media/media/2026-11-26.mp4"
+ ],
+ "spec": {
+  "mood": "calm",
+  "scenes": [
+   {
+    "type": "words",
+    "dur": 3.2,
+    "lines": [
+     [
+      "Dizayner uchun",
+      "light",
+      "ink"
+     ],
+     [
+      "BEPUL",
+      "black",
+      "ink"
+     ],
+     [
+      "RESURSLAR",
+      "black",
+      "blue"
+     ]
+    ]
+   },
+   {
+    "type": "words",
+    "dur": 2.6,
+    "lines": [
+     [
+      "saqlab",
+      "light",
+      "ink"
+     ],
+     [
+      "QO'YING",
+      "black",
+      "blue"
+     ]
+    ]
+   },
+   {
+    "type": "cards",
+    "dur": 4.2,
+    "kicker": "Resurslar",
+    "title": "TOP 4",
+    "cards": [
+     "UNSPLASH",
+     "GOOGLE FONTS",
+     "ICONIFY",
+     "FREEPIK"
+    ]
+   },
+   {
+    "type": "number",
+    "dur": 3.3,
+    "num": "1",
+    "head": "UNSPLASH",
+    "l1": "Sifatli bepul",
+    "l2": "fotosuratlar"
+   },
+   {
+    "type": "number",
+    "dur": 3.3,
+    "num": "2",
+    "head": "GOOGLE FONTS",
+    "l1": "1500+ bepul",
+    "l2": "shriftlar"
+   },
+   {
+    "type": "number",
+    "dur": 3.3,
+    "num": "3",
+    "head": "ICONIFY",
+    "l1": "200 mingdan ortiq",
+    "l2": "ikonka"
+   },
+   {
+    "type": "words",
+    "dur": 3.0,
+    "lines": [
+     [
+      "litsenziyani",
+      "light",
+      "ink"
+     ],
+     [
+      "DOIM",
+      "black",
+      "ink"
+     ],
+     [
+      "TEKSHIRING",
+      "black",
+      "blue"
+     ]
+    ]
+   },
+   {
+    "type": "subscribe",
+    "dur": 4.6,
+    "title": "SAHIFAMIZGA",
+    "sub": "obuna bo'ling",
+    "handle": "xusniddintech",
+    "button": "Obuna",
+    "thanks": "Yashang!",
+    "tap_at": 2.0
+   }
+  ]
+ }
+}

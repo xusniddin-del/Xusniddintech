@@ -1,0 +1,84 @@
+{
+ "date": "2026-11-20",
+ "type": "carousel",
+ "time": "18:30",
+ "topic": "uiux",
+ "title": "Mobil ekran XATOLARI",
+ "caption": "Mobil ekran xatolari\nYangi dizaynerlar ko'p qiladi 👇\n\n1) MAYDA TUGMALAR\nBarmoq sig'masa — foydalanuvchi asabiylashadi\n\n2) JUDA KO'P MATN\nMobilda qisqa yozing, asosiysi birinchi\n\n3) XAVFSIZ ZONA\nKamera va pastki chiziq, ostida matn qolmasin\n\n4) PAST KONTRAST\nQuyoshda ko'rinmaydi, kulrang ustida kulrang yo'q\n\n5) BOSH BARMOQ\nAsosiy tugma pastda, bir qo'lda yetadigan joyda\n\n💾 Saqlab qo'ying, kerak bo'ladi.\n💬 Qaysi xatoni ilovalarda ko'p ko'rasiz?\n\n#uiux #uidesign #figma #xusniddintech #ozbekcha",
+ "media": [
+  "https://raw.githubusercontent.com/xusniddin-del/Xusniddintech/instagram-media/media/2026-11-20/01.jpg",
+  "https://raw.githubusercontent.com/xusniddin-del/Xusniddintech/instagram-media/media/2026-11-20/02.jpg",
+  "https://raw.githubusercontent.com/xusniddin-del/Xusniddintech/instagram-media/media/2026-11-20/03.jpg",
+  "https://raw.githubusercontent.com/xusniddin-del/Xusniddintech/instagram-media/media/2026-11-20/04.jpg",
+  "https://raw.githubusercontent.com/xusniddin-del/Xusniddintech/instagram-media/media/2026-11-20/05.jpg",
+  "https://raw.githubusercontent.com/xusniddin-del/Xusniddintech/instagram-media/media/2026-11-20/06.jpg",
+  "https://raw.githubusercontent.com/xusniddin-del/Xusniddintech/instagram-media/media/2026-11-20/07.jpg"
+ ],
+ "spec": {
+  "pages": [
+   {
+    "type": "cover",
+    "lines": [
+     [
+      "Mobil ekran",
+      "light",
+      "ink"
+     ],
+     [
+      "XATOLARI",
+      "black",
+      "blue"
+     ]
+    ],
+    "sub": "Yangi dizaynerlar ko'p qiladi",
+    "cta": "Suring"
+   },
+   {
+    "type": "number",
+    "pill": "01",
+    "num": "1",
+    "head": "MAYDA TUGMALAR",
+    "l1": "Barmoq sig'masa —",
+    "l2": "foydalanuvchi asabiylashadi"
+   },
+   {
+    "type": "number",
+    "pill": "02",
+    "num": "2",
+    "head": "JUDA KO'P MATN",
+    "l1": "Mobilda qisqa yozing",
+    "l2": "asosiysi birinchi"
+   },
+   {
+    "type": "number",
+    "pill": "03",
+    "num": "3",
+    "head": "XAVFSIZ ZONA",
+    "l1": "Kamera va pastki chiziq",
+    "l2": "ostida matn qolmasin"
+   },
+   {
+    "type": "number",
+    "pill": "04",
+    "num": "4",
+    "head": "PAST KONTRAST",
+    "l1": "Quyoshda ko'rinmaydi",
+    "l2": "kulrang ustida kulrang yo'q"
+   },
+   {
+    "type": "number",
+    "pill": "05",
+    "num": "5",
+    "head": "BOSH BARMOQ",
+    "l1": "Asosiy tugma pastda",
+    "l2": "bir qo'lda yetadigan joyda"
+   },
+   {
+    "type": "cta",
+    "l1": "SAQLAB",
+    "l2": "QO'YING",
+    "q": "Qaysi xatoni ilovalarda ko'p ko'rasiz?"
+   }
+  ]
+ }
+}

@@ -1,0 +1,120 @@
+{
+ "date": "2026-10-17",
+ "type": "video",
+ "time": "20:00",
+ "topic": "scratch",
+ "title": "Scratch NIMA O'ZI?",
+ "caption": "Scratch nima o'zi? 🎬\n\n1) BEPUL\nscratch.mit.edu, brauzerda ishlaydi\n\n2) BLOKLAR\nKod yozmaysiz — bloklarni ulaysiz\n\n3) 8+ YOSH\nBolalar uchun, birinchi qadam\n\n💾 Saqlab qo'ying va do'stingizga yuboring.\n🔔 Har kuni foydali kontent — kuzatib boring.\n\n#scratch #bolalaruchun #dasturlash #xusniddintech #ozbekcha",
+ "media": [
+  "https://raw.githubusercontent.com/xusniddin-del/Xusniddintech/instagram-media/media/2026-10-17.mp4"
+ ],
+ "spec": {
+  "mood": "playful",
+  "scenes": [
+   {
+    "type": "words",
+    "dur": 3.2,
+    "lines": [
+     [
+      "Scratch",
+      "light",
+      "ink"
+     ],
+     [
+      "NIMA",
+      "black",
+      "ink"
+     ],
+     [
+      "O'ZI?",
+      "black",
+      "blue"
+     ]
+    ]
+   },
+   {
+    "type": "words",
+    "dur": 2.6,
+    "lines": [
+     [
+      "bloklar bilan",
+      "light",
+      "ink"
+     ],
+     [
+      "DASTURLASH",
+      "black",
+      "blue"
+     ]
+    ]
+   },
+   {
+    "type": "cards",
+    "dur": 4.2,
+    "kicker": "Scratch'da",
+    "title": "YARATING",
+    "cards": [
+     "O'YIN",
+     "MULTFILM",
+     "HIKOYA",
+     "MUSIQA"
+    ]
+   },
+   {
+    "type": "number",
+    "dur": 3.3,
+    "num": "1",
+    "head": "BEPUL",
+    "l1": "scratch.mit.edu",
+    "l2": "brauzerda ishlaydi"
+   },
+   {
+    "type": "number",
+    "dur": 3.3,
+    "num": "2",
+    "head": "BLOKLAR",
+    "l1": "Kod yozmaysiz —",
+    "l2": "bloklarni ulaysiz"
+   },
+   {
+    "type": "number",
+    "dur": 3.3,
+    "num": "3",
+    "head": "8+ YOSH",
+    "l1": "Bolalar uchun",
+    "l2": "birinchi qadam"
+   },
+   {
+    "type": "words",
+    "dur": 3.0,
+    "lines": [
+     [
+      "bugun",
+      "light",
+      "ink"
+     ],
+     [
+      "BIRINCHI",
+      "black",
+      "ink"
+     ],
+     [
+      "LOYIHA",
+      "black",
+      "blue"
+     ]
+    ]
+   },
+   {
+    "type": "subscribe",
+    "dur": 4.6,
+    "title": "SAHIFAMIZGA",
+    "sub": "obuna bo'ling",
+    "handle": "xusniddintech",
+    "button": "Obuna",
+    "thanks": "Yashang!",
+    "tap_at": 2.0
+   }
+  ]
+ }
+}

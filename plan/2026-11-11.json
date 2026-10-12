@@ -1,0 +1,84 @@
+{
+ "date": "2026-11-11",
+ "type": "carousel",
+ "time": "19:00",
+ "topic": "kiber",
+ "title": "Telefoningiz BUZILGANMI?",
+ "caption": "Telefoningiz buzilganmi?\n5 ta xavfli belgi 👇\n\n1) BATAREYA\nTez tugayapti, va telefon qiziyapti\n\n2) NOTANISH ILOVA\nO'zingiz o'rnatmagan, ilova paydo bo'ldi\n\n3) REKLAMA\nHamma joyda, kutilmagan reklama\n\n4) TRAFIK\nInternet tez, sarflanyapti\n\n5) XABARLAR\nDo'stlaringizga siz nomingizdan, g'alati xabar ketgan\n\n💾 Saqlab qo'ying, kerak bo'ladi.\n💬 Shunday holat bo'lganmi?\n\n#kiberxavfsizlik #xavfsizlik #parol #xusniddintech #ozbekcha",
+ "media": [
+  "https://raw.githubusercontent.com/xusniddin-del/Xusniddintech/instagram-media/media/2026-11-11/01.jpg",
+  "https://raw.githubusercontent.com/xusniddin-del/Xusniddintech/instagram-media/media/2026-11-11/02.jpg",
+  "https://raw.githubusercontent.com/xusniddin-del/Xusniddintech/instagram-media/media/2026-11-11/03.jpg",
+  "https://raw.githubusercontent.com/xusniddin-del/Xusniddintech/instagram-media/media/2026-11-11/04.jpg",
+  "https://raw.githubusercontent.com/xusniddin-del/Xusniddintech/instagram-media/media/2026-11-11/05.jpg",
+  "https://raw.githubusercontent.com/xusniddin-del/Xusniddintech/instagram-media/media/2026-11-11/06.jpg",
+  "https://raw.githubusercontent.com/xusniddin-del/Xusniddintech/instagram-media/media/2026-11-11/07.jpg"
+ ],
+ "spec": {
+  "pages": [
+   {
+    "type": "cover",
+    "lines": [
+     [
+      "Telefoningiz",
+      "light",
+      "ink"
+     ],
+     [
+      "BUZILGANMI?",
+      "black",
+      "blue"
+     ]
+    ],
+    "sub": "5 ta xavfli belgi",
+    "cta": "Suring"
+   },
+   {
+    "type": "number",
+    "pill": "01",
+    "num": "1",
+    "head": "BATAREYA",
+    "l1": "Tez tugayapti",
+    "l2": "va telefon qiziyapti"
+   },
+   {
+    "type": "number",
+    "pill": "02",
+    "num": "2",
+    "head": "NOTANISH ILOVA",
+    "l1": "O'zingiz o'rnatmagan",
+    "l2": "ilova paydo bo'ldi"
+   },
+   {
+    "type": "number",
+    "pill": "03",
+    "num": "3",
+    "head": "REKLAMA",
+    "l1": "Hamma joyda",
+    "l2": "kutilmagan reklama"
+   },
+   {
+    "type": "number",
+    "pill": "04",
+    "num": "4",
+    "head": "TRAFIK",
+    "l1": "Internet tez",
+    "l2": "sarflanyapti"
+   },
+   {
+    "type": "number",
+    "pill": "05",
+    "num": "5",
+    "head": "XABARLAR",
+    "l1": "Do'stlaringizga siz nomingizdan",
+    "l2": "g'alati xabar ketgan"
+   },
+   {
+    "type": "cta",
+    "l1": "SAQLAB",
+    "l2": "QO'YING",
+    "q": "Shunday holat bo'lganmi?"
+   }
+  ]
+ }
+}

@@ -1,0 +1,120 @@
+{
+ "date": "2026-11-24",
+ "type": "video",
+ "time": "20:30",
+ "topic": "ai",
+ "title": "AI'ga ISHONSA BO'LADIMI?",
+ "caption": "AI'ga ishonsa bo'ladimi? 🎬\n\n1) MANBA SO'RANG\n\"Bu ma'lumot qayerdan?\" deb so'rang\n\n2) RAQAMLAR\nStatistika va sanalarni, rasmiy saytda tekshiring\n\n3) SHAXSIY MA'LUMOT\nParol, karta raqamini, AI'ga yozmang\n\n💾 Saqlab qo'ying va do'stingizga yuboring.\n🔔 Har kuni foydali kontent — kuzatib boring.\n\n#suniyintellekt #ai #chatgpt #xusniddintech #ozbekcha",
+ "media": [
+  "https://raw.githubusercontent.com/xusniddin-del/Xusniddintech/instagram-media/media/2026-11-24.mp4"
+ ],
+ "spec": {
+  "mood": "tech",
+  "scenes": [
+   {
+    "type": "words",
+    "dur": 3.2,
+    "lines": [
+     [
+      "AI'ga",
+      "light",
+      "ink"
+     ],
+     [
+      "ISHONSA",
+      "black",
+      "ink"
+     ],
+     [
+      "BO'LADIMI?",
+      "black",
+      "blue"
+     ]
+    ]
+   },
+   {
+    "type": "words",
+    "dur": 2.6,
+    "lines": [
+     [
+      "ba'zan AI ham",
+      "light",
+      "ink"
+     ],
+     [
+      "ADASHADI",
+      "black",
+      "blue"
+     ]
+    ]
+   },
+   {
+    "type": "cards",
+    "dur": 4.2,
+    "kicker": "Tekshiring",
+    "title": "3 QOIDA",
+    "cards": [
+     "MANBA",
+     "RAQAM",
+     "SANA",
+     "MANTIQ"
+    ]
+   },
+   {
+    "type": "number",
+    "dur": 3.3,
+    "num": "1",
+    "head": "MANBA SO'RANG",
+    "l1": "\"Bu ma'lumot qayerdan?\"",
+    "l2": "deb so'rang"
+   },
+   {
+    "type": "number",
+    "dur": 3.3,
+    "num": "2",
+    "head": "RAQAMLAR",
+    "l1": "Statistika va sanalarni",
+    "l2": "rasmiy saytda tekshiring"
+   },
+   {
+    "type": "number",
+    "dur": 3.3,
+    "num": "3",
+    "head": "SHAXSIY MA'LUMOT",
+    "l1": "Parol, karta raqamini",
+    "l2": "AI'ga yozmang"
+   },
+   {
+    "type": "words",
+    "dur": 3.0,
+    "lines": [
+     [
+      "AI — tez,",
+      "light",
+      "ink"
+     ],
+     [
+      "SIZ —",
+      "black",
+      "ink"
+     ],
+     [
+      "AQLLI",
+      "black",
+      "blue"
+     ]
+    ]
+   },
+   {
+    "type": "subscribe",
+    "dur": 4.6,
+    "title": "SAHIFAMIZGA",
+    "sub": "obuna bo'ling",
+    "handle": "xusniddintech",
+    "button": "Obuna",
+    "thanks": "Yashang!",
+    "tap_at": 2.0
+   }
+  ]
+ }
+}

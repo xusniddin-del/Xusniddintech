@@ -1,0 +1,84 @@
+{
+ "date": "2026-11-04",
+ "type": "carousel",
+ "time": "19:00",
+ "topic": "kiber",
+ "title": "Bepul Wi-Fi XAVFLIMI?",
+ "caption": "Bepul Wi-Fi xavflimi?\nKafeda internetdan oldin o'qing 👇\n\n1) SOXTA TARMOQ\n\"Free_WiFi\" — kimdir, atayin ochgan bo'lishi mumkin\n\n2) BANK YO'Q\nOchiq Wi-Fi'da, bank ilovasiga kirmang\n\n3) HTTPS\nManzil qulf belgisi, bilan bo'lsin\n\n4) AVTO ULANISH\nAvtomatik ulanishni, o'chirib qo'ying\n\n5) MOBIL INTERNET\nMuhim ishlar uchun, o'z internetingiz xavfsizroq\n\n💾 Saqlab qo'ying, kerak bo'ladi.\n💬 Siz ochiq Wi-Fi'dan foydalanasizmi?\n\n#kiberxavfsizlik #xavfsizlik #parol #xusniddintech #ozbekcha",
+ "media": [
+  "https://raw.githubusercontent.com/xusniddin-del/Xusniddintech/instagram-media/media/2026-11-04/01.jpg",
+  "https://raw.githubusercontent.com/xusniddin-del/Xusniddintech/instagram-media/media/2026-11-04/02.jpg",
+  "https://raw.githubusercontent.com/xusniddin-del/Xusniddintech/instagram-media/media/2026-11-04/03.jpg",
+  "https://raw.githubusercontent.com/xusniddin-del/Xusniddintech/instagram-media/media/2026-11-04/04.jpg",
+  "https://raw.githubusercontent.com/xusniddin-del/Xusniddintech/instagram-media/media/2026-11-04/05.jpg",
+  "https://raw.githubusercontent.com/xusniddin-del/Xusniddintech/instagram-media/media/2026-11-04/06.jpg",
+  "https://raw.githubusercontent.com/xusniddin-del/Xusniddintech/instagram-media/media/2026-11-04/07.jpg"
+ ],
+ "spec": {
+  "pages": [
+   {
+    "type": "cover",
+    "lines": [
+     [
+      "Bepul Wi-Fi",
+      "light",
+      "ink"
+     ],
+     [
+      "XAVFLIMI?",
+      "black",
+      "blue"
+     ]
+    ],
+    "sub": "Kafeda internetdan oldin o'qing",
+    "cta": "Suring"
+   },
+   {
+    "type": "number",
+    "pill": "01",
+    "num": "1",
+    "head": "SOXTA TARMOQ",
+    "l1": "\"Free_WiFi\" — kimdir",
+    "l2": "atayin ochgan bo'lishi mumkin"
+   },
+   {
+    "type": "number",
+    "pill": "02",
+    "num": "2",
+    "head": "BANK YO'Q",
+    "l1": "Ochiq Wi-Fi'da",
+    "l2": "bank ilovasiga kirmang"
+   },
+   {
+    "type": "number",
+    "pill": "03",
+    "num": "3",
+    "head": "HTTPS",
+    "l1": "Manzil qulf belgisi",
+    "l2": "bilan bo'lsin"
+   },
+   {
+    "type": "number",
+    "pill": "04",
+    "num": "4",
+    "head": "AVTO ULANISH",
+    "l1": "Avtomatik ulanishni",
+    "l2": "o'chirib qo'ying"
+   },
+   {
+    "type": "number",
+    "pill": "05",
+    "num": "5",
+    "head": "MOBIL INTERNET",
+    "l1": "Muhim ishlar uchun",
+    "l2": "o'z internetingiz xavfsizroq"
+   },
+   {
+    "type": "cta",
+    "l1": "SAQLAB",
+    "l2": "QO'YING",
+    "q": "Siz ochiq Wi-Fi'dan foydalanasizmi?"
+   }
+  ]
+ }
+}

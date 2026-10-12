@@ -1,0 +1,84 @@
+{
+ "date": "2026-10-16",
+ "type": "carousel",
+ "time": "18:30",
+ "topic": "uiux",
+ "title": "Farqi nima? UI VA UX",
+ "caption": "Farqi nima? UI va UX\n5 ta oddiy misolda 👇\n\n1) UI — KO'RINISH\nRang, shrift, tugma, ekranda nima ko'rinadi\n\n2) UX — TAJRIBA\nFoydalanish qulaymi? foydalanuvchi nima his qiladi\n\n3) MISOL: ESHIK\nUI — eshik dizayni, UX — uni ochish osonligi\n\n4) IKKALASI KERAK\nChiroyli, lekin noqulay — foydalanuvchi ketib qoladi\n\n5) QAYERDAN BOSHLASH\nAvval UX: muammo va yo'l, keyin UI: chiroyli ko'rinish\n\n💾 Saqlab qo'ying, kerak bo'ladi.\n💬 Siz UI'ga qiziqasizmi yoki UX'ga?\n\n#uiux #uidesign #figma #xusniddintech #ozbekcha",
+ "media": [
+  "https://raw.githubusercontent.com/xusniddin-del/Xusniddintech/instagram-media/media/2026-10-16/01.jpg",
+  "https://raw.githubusercontent.com/xusniddin-del/Xusniddintech/instagram-media/media/2026-10-16/02.jpg",
+  "https://raw.githubusercontent.com/xusniddin-del/Xusniddintech/instagram-media/media/2026-10-16/03.jpg",
+  "https://raw.githubusercontent.com/xusniddin-del/Xusniddintech/instagram-media/media/2026-10-16/04.jpg",
+  "https://raw.githubusercontent.com/xusniddin-del/Xusniddintech/instagram-media/media/2026-10-16/05.jpg",
+  "https://raw.githubusercontent.com/xusniddin-del/Xusniddintech/instagram-media/media/2026-10-16/06.jpg",
+  "https://raw.githubusercontent.com/xusniddin-del/Xusniddintech/instagram-media/media/2026-10-16/07.jpg"
+ ],
+ "spec": {
+  "pages": [
+   {
+    "type": "cover",
+    "lines": [
+     [
+      "Farqi nima?",
+      "light",
+      "ink"
+     ],
+     [
+      "UI VA UX",
+      "black",
+      "blue"
+     ]
+    ],
+    "sub": "5 ta oddiy misolda",
+    "cta": "Suring"
+   },
+   {
+    "type": "number",
+    "pill": "01",
+    "num": "1",
+    "head": "UI — KO'RINISH",
+    "l1": "Rang, shrift, tugma",
+    "l2": "ekranda nima ko'rinadi"
+   },
+   {
+    "type": "number",
+    "pill": "02",
+    "num": "2",
+    "head": "UX — TAJRIBA",
+    "l1": "Foydalanish qulaymi?",
+    "l2": "foydalanuvchi nima his qiladi"
+   },
+   {
+    "type": "number",
+    "pill": "03",
+    "num": "3",
+    "head": "MISOL: ESHIK",
+    "l1": "UI — eshik dizayni",
+    "l2": "UX — uni ochish osonligi"
+   },
+   {
+    "type": "number",
+    "pill": "04",
+    "num": "4",
+    "head": "IKKALASI KERAK",
+    "l1": "Chiroyli, lekin noqulay —",
+    "l2": "foydalanuvchi ketib qoladi"
+   },
+   {
+    "type": "number",
+    "pill": "05",
+    "num": "5",
+    "head": "QAYERDAN BOSHLASH",
+    "l1": "Avval UX: muammo va yo'l",
+    "l2": "keyin UI: chiroyli ko'rinish"
+   },
+   {
+    "type": "cta",
+    "l1": "SAQLAB",
+    "l2": "QO'YING",
+    "q": "Siz UI'ga qiziqasizmi yoki UX'ga?"
+   }
+  ]
+ }
+}

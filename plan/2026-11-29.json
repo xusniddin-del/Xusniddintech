@@ -1,0 +1,115 @@
+{
+ "date": "2026-11-29",
+ "type": "video",
+ "time": "19:30",
+ "topic": "vibe",
+ "title": "Vibe coding'ning XAVFLARI",
+ "caption": "Vibe coding'ning xavflari 🎬\n\n1) PAROLLAR\nKod ichida parol, va token qoldirmang\n\n2) TUSHUNING\nIshlayotgan kodni, AI'dan tushuntirtiring\n\n3) ZAXIRA\nGit bilan saqlang — xato bo'lsa qaytasiz\n\n💾 Saqlab qo'ying va do'stingizga yuboring.\n🔔 Har kuni foydali kontent — kuzatib boring.\n\n#vibecoding #dasturlash #ai #xusniddintech #ozbekcha",
+ "media": [
+  "https://raw.githubusercontent.com/xusniddin-del/Xusniddintech/instagram-media/media/2026-11-29.mp4"
+ ],
+ "spec": {
+  "mood": "tech",
+  "scenes": [
+   {
+    "type": "words",
+    "dur": 3.2,
+    "lines": [
+     [
+      "Vibe coding'ning",
+      "light",
+      "ink"
+     ],
+     [
+      "XAVFLARI",
+      "black",
+      "ink"
+     ]
+    ]
+   },
+   {
+    "type": "words",
+    "dur": 2.6,
+    "lines": [
+     [
+      "bilib",
+      "light",
+      "ink"
+     ],
+     [
+      "ISHLATING",
+      "black",
+      "blue"
+     ]
+    ]
+   },
+   {
+    "type": "cards",
+    "dur": 4.2,
+    "kicker": "Ehtiyot",
+    "title": "BO'LING",
+    "cards": [
+     "PAROL",
+     "TUSHUNISH",
+     "ZAXIRA",
+     "TEKSHIRUV"
+    ]
+   },
+   {
+    "type": "number",
+    "dur": 3.3,
+    "num": "1",
+    "head": "PAROLLAR",
+    "l1": "Kod ichida parol",
+    "l2": "va token qoldirmang"
+   },
+   {
+    "type": "number",
+    "dur": 3.3,
+    "num": "2",
+    "head": "TUSHUNING",
+    "l1": "Ishlayotgan kodni",
+    "l2": "AI'dan tushuntirtiring"
+   },
+   {
+    "type": "number",
+    "dur": 3.3,
+    "num": "3",
+    "head": "ZAXIRA",
+    "l1": "Git bilan saqlang —",
+    "l2": "xato bo'lsa qaytasiz"
+   },
+   {
+    "type": "words",
+    "dur": 3.0,
+    "lines": [
+     [
+      "AI — tezlik,",
+      "light",
+      "ink"
+     ],
+     [
+      "BILIM —",
+      "black",
+      "ink"
+     ],
+     [
+      "KUCH",
+      "black",
+      "blue"
+     ]
+    ]
+   },
+   {
+    "type": "subscribe",
+    "dur": 4.6,
+    "title": "SAHIFAMIZGA",
+    "sub": "obuna bo'ling",
+    "handle": "xusniddintech",
+    "button": "Obuna",
+    "thanks": "Yashang!",
+    "tap_at": 2.0
+   }
+  ]
+ }
+}

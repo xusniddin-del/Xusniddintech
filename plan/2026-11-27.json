@@ -1,0 +1,84 @@
+{
+ "date": "2026-11-27",
+ "type": "carousel",
+ "time": "18:30",
+ "topic": "uiux",
+ "title": "UI/UX'ni NOLDAN O'RGANISH",
+ "caption": "UI/UX'ni noldan o'rganish\n5 qadamli yo'l xaritasi 👇\n\n1) ASOSLAR\nRang, shrift, kompozitsiya, dizayn tamoyillari\n\n2) FIGMA\nFrame, auto layout, komponentlar, prototip\n\n3) UX JARAYONI\nTadqiqot, persona, wireframe, test\n\n4) NUSXA OLING\nMashhur ilovalarni, qayta chizib mashq qiling\n\n5) PORTFOLIO\n3 ta to'liq loyiha, Behance yoki Dribbble'da\n\n💾 Saqlab qo'ying, kerak bo'ladi.\n💬 Siz hozir qaysi qadamdasiz?\n\n#uiux #uidesign #figma #xusniddintech #ozbekcha",
+ "media": [
+  "https://raw.githubusercontent.com/xusniddin-del/Xusniddintech/instagram-media/media/2026-11-27/01.jpg",
+  "https://raw.githubusercontent.com/xusniddin-del/Xusniddintech/instagram-media/media/2026-11-27/02.jpg",
+  "https://raw.githubusercontent.com/xusniddin-del/Xusniddintech/instagram-media/media/2026-11-27/03.jpg",
+  "https://raw.githubusercontent.com/xusniddin-del/Xusniddintech/instagram-media/media/2026-11-27/04.jpg",
+  "https://raw.githubusercontent.com/xusniddin-del/Xusniddintech/instagram-media/media/2026-11-27/05.jpg",
+  "https://raw.githubusercontent.com/xusniddin-del/Xusniddintech/instagram-media/media/2026-11-27/06.jpg",
+  "https://raw.githubusercontent.com/xusniddin-del/Xusniddintech/instagram-media/media/2026-11-27/07.jpg"
+ ],
+ "spec": {
+  "pages": [
+   {
+    "type": "cover",
+    "lines": [
+     [
+      "UI/UX'ni",
+      "light",
+      "ink"
+     ],
+     [
+      "NOLDAN O'RGANISH",
+      "black",
+      "blue"
+     ]
+    ],
+    "sub": "5 qadamli yo'l xaritasi",
+    "cta": "Suring"
+   },
+   {
+    "type": "number",
+    "pill": "01",
+    "num": "1",
+    "head": "ASOSLAR",
+    "l1": "Rang, shrift, kompozitsiya",
+    "l2": "dizayn tamoyillari"
+   },
+   {
+    "type": "number",
+    "pill": "02",
+    "num": "2",
+    "head": "FIGMA",
+    "l1": "Frame, auto layout",
+    "l2": "komponentlar, prototip"
+   },
+   {
+    "type": "number",
+    "pill": "03",
+    "num": "3",
+    "head": "UX JARAYONI",
+    "l1": "Tadqiqot, persona",
+    "l2": "wireframe, test"
+   },
+   {
+    "type": "number",
+    "pill": "04",
+    "num": "4",
+    "head": "NUSXA OLING",
+    "l1": "Mashhur ilovalarni",
+    "l2": "qayta chizib mashq qiling"
+   },
+   {
+    "type": "number",
+    "pill": "05",
+    "num": "5",
+    "head": "PORTFOLIO",
+    "l1": "3 ta to'liq loyiha",
+    "l2": "Behance yoki Dribbble'da"
+   },
+   {
+    "type": "cta",
+    "l1": "SAQLAB",
+    "l2": "QO'YING",
+    "q": "Siz hozir qaysi qadamdasiz?"
+   }
+  ]
+ }
+}

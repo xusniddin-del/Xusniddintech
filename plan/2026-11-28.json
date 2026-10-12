@@ -1,0 +1,120 @@
+{
+ "date": "2026-11-28",
+ "type": "video",
+ "time": "20:00",
+ "topic": "scratch",
+ "title": "Scratch'dan KEYIN NIMA?",
+ "caption": "Scratch'dan keyin nima? 🎬\n\n1) PYTHON\nOddiy sintaksis, matnli kod boshlanishi\n\n2) WEB\nHTML, CSS — o'z saytingiz\n\n3) O'YINLAR\nGodot yoki Roblox Studio, haqiqiy o'yinlar\n\n💾 Saqlab qo'ying va do'stingizga yuboring.\n🔔 Har kuni foydali kontent — kuzatib boring.\n\n#scratch #bolalaruchun #dasturlash #xusniddintech #ozbekcha",
+ "media": [
+  "https://raw.githubusercontent.com/xusniddin-del/Xusniddintech/instagram-media/media/2026-11-28.mp4"
+ ],
+ "spec": {
+  "mood": "playful",
+  "scenes": [
+   {
+    "type": "words",
+    "dur": 3.2,
+    "lines": [
+     [
+      "Scratch'dan",
+      "light",
+      "ink"
+     ],
+     [
+      "KEYIN",
+      "black",
+      "ink"
+     ],
+     [
+      "NIMA?",
+      "black",
+      "blue"
+     ]
+    ]
+   },
+   {
+    "type": "words",
+    "dur": 2.6,
+    "lines": [
+     [
+      "keyingi",
+      "light",
+      "ink"
+     ],
+     [
+      "QADAMLAR",
+      "black",
+      "blue"
+     ]
+    ]
+   },
+   {
+    "type": "cards",
+    "dur": 4.2,
+    "kicker": "Yo'l",
+    "title": "XARITA",
+    "cards": [
+     "SCRATCH",
+     "PYTHON",
+     "WEB",
+     "O'YINLAR"
+    ]
+   },
+   {
+    "type": "number",
+    "dur": 3.3,
+    "num": "1",
+    "head": "PYTHON",
+    "l1": "Oddiy sintaksis",
+    "l2": "matnli kod boshlanishi"
+   },
+   {
+    "type": "number",
+    "dur": 3.3,
+    "num": "2",
+    "head": "WEB",
+    "l1": "HTML, CSS —",
+    "l2": "o'z saytingiz"
+   },
+   {
+    "type": "number",
+    "dur": 3.3,
+    "num": "3",
+    "head": "O'YINLAR",
+    "l1": "Godot yoki Roblox Studio",
+    "l2": "haqiqiy o'yinlar"
+   },
+   {
+    "type": "words",
+    "dur": 3.0,
+    "lines": [
+     [
+      "har bir dasturchi",
+      "light",
+      "ink"
+     ],
+     [
+      "KICHIKDAN",
+      "black",
+      "ink"
+     ],
+     [
+      "BOSHLAGAN",
+      "black",
+      "blue"
+     ]
+    ]
+   },
+   {
+    "type": "subscribe",
+    "dur": 4.6,
+    "title": "SAHIFAMIZGA",
+    "sub": "obuna bo'ling",
+    "handle": "xusniddintech",
+    "button": "Obuna",
+    "thanks": "Yashang!",
+    "tap_at": 2.0
+   }
+  ]
+ }
+}

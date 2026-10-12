@@ -1,0 +1,115 @@
+{
+ "date": "2026-11-05",
+ "type": "video",
+ "time": "20:30",
+ "topic": "dizayn",
+ "title": "Logotip QANDAY YARALADI?",
+ "caption": "Logotip qanday yaraladi? 🎬\n\n1) BRIF\nMijoz kim, kimga sotadi, qanday his kerak\n\n2) ESKIZ\nQog'ozda 20+ g'oya, eng yaxshi 3 tasi\n\n3) VEKTOR\nIllustrator yoki Figma'da, oq-qorada ham ishlasin\n\n💾 Saqlab qo'ying va do'stingizga yuboring.\n🔔 Har kuni foydali kontent — kuzatib boring.\n\n#grafikdizayn #dizayn #dizayner #xusniddintech #ozbekcha",
+ "media": [
+  "https://raw.githubusercontent.com/xusniddin-del/Xusniddintech/instagram-media/media/2026-11-05.mp4"
+ ],
+ "spec": {
+  "mood": "calm",
+  "scenes": [
+   {
+    "type": "words",
+    "dur": 3.2,
+    "lines": [
+     [
+      "Logotip",
+      "light",
+      "ink"
+     ],
+     [
+      "QANDAY",
+      "black",
+      "ink"
+     ],
+     [
+      "YARALADI?",
+      "black",
+      "blue"
+     ]
+    ]
+   },
+   {
+    "type": "words",
+    "dur": 2.6,
+    "lines": [
+     [
+      "4 ta",
+      "light",
+      "ink"
+     ],
+     [
+      "BOSQICH",
+      "black",
+      "blue"
+     ]
+    ]
+   },
+   {
+    "type": "cards",
+    "dur": 4.2,
+    "kicker": "Jarayon",
+    "title": "LOGO",
+    "cards": [
+     "BRIF",
+     "ESKIZ",
+     "VEKTOR",
+     "TAQDIMOT"
+    ]
+   },
+   {
+    "type": "number",
+    "dur": 3.3,
+    "num": "1",
+    "head": "BRIF",
+    "l1": "Mijoz kim, kimga sotadi",
+    "l2": "qanday his kerak"
+   },
+   {
+    "type": "number",
+    "dur": 3.3,
+    "num": "2",
+    "head": "ESKIZ",
+    "l1": "Qog'ozda 20+ g'oya",
+    "l2": "eng yaxshi 3 tasi"
+   },
+   {
+    "type": "number",
+    "dur": 3.3,
+    "num": "3",
+    "head": "VEKTOR",
+    "l1": "Illustrator yoki Figma'da",
+    "l2": "oq-qorada ham ishlasin"
+   },
+   {
+    "type": "words",
+    "dur": 3.0,
+    "lines": [
+     [
+      "yaxshi logo —",
+      "light",
+      "ink"
+     ],
+     [
+      "ODDIY",
+      "black",
+      "blue"
+     ]
+    ]
+   },
+   {
+    "type": "subscribe",
+    "dur": 4.6,
+    "title": "SAHIFAMIZGA",
+    "sub": "obuna bo'ling",
+    "handle": "xusniddintech",
+    "button": "Obuna",
+    "thanks": "Yashang!",
+    "tap_at": 2.0
+   }
+  ]
+ }
+}

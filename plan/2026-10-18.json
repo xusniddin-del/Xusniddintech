@@ -1,0 +1,115 @@
+{
+ "date": "2026-10-18",
+ "type": "video",
+ "time": "19:30",
+ "topic": "vibe",
+ "title": "Vibe coding NIMA O'ZI?",
+ "caption": "Vibe coding nima o'zi? 🎬\n\n1) G'OYA\nNima qilmoqchisiz — oddiy so'zlar bilan\n\n2) AI YOZADI\nKodni AI yaratadi, siz natijani ko'rasiz\n\n3) SINAB KO'RING\nIshlamasa — AI'ga xatoni ayting\n\n💾 Saqlab qo'ying va do'stingizga yuboring.\n🔔 Har kuni foydali kontent — kuzatib boring.\n\n#vibecoding #dasturlash #ai #xusniddintech #ozbekcha",
+ "media": [
+  "https://raw.githubusercontent.com/xusniddin-del/Xusniddintech/instagram-media/media/2026-10-18.mp4"
+ ],
+ "spec": {
+  "mood": "tech",
+  "scenes": [
+   {
+    "type": "words",
+    "dur": 3.2,
+    "lines": [
+     [
+      "Vibe coding",
+      "light",
+      "ink"
+     ],
+     [
+      "NIMA",
+      "black",
+      "ink"
+     ],
+     [
+      "O'ZI?",
+      "black",
+      "blue"
+     ]
+    ]
+   },
+   {
+    "type": "words",
+    "dur": 2.6,
+    "lines": [
+     [
+      "gapirasiz —",
+      "light",
+      "ink"
+     ],
+     [
+      "AI KOD YOZADI",
+      "black",
+      "blue"
+     ]
+    ]
+   },
+   {
+    "type": "cards",
+    "dur": 4.2,
+    "kicker": "Vibe coding",
+    "title": "TAMOYIL",
+    "cards": [
+     "G'OYA",
+     "PROMPT",
+     "SINOV",
+     "TUZATISH"
+    ]
+   },
+   {
+    "type": "number",
+    "dur": 3.3,
+    "num": "1",
+    "head": "G'OYA",
+    "l1": "Nima qilmoqchisiz —",
+    "l2": "oddiy so'zlar bilan"
+   },
+   {
+    "type": "number",
+    "dur": 3.3,
+    "num": "2",
+    "head": "AI YOZADI",
+    "l1": "Kodni AI yaratadi",
+    "l2": "siz natijani ko'rasiz"
+   },
+   {
+    "type": "number",
+    "dur": 3.3,
+    "num": "3",
+    "head": "SINAB KO'RING",
+    "l1": "Ishlamasa —",
+    "l2": "AI'ga xatoni ayting"
+   },
+   {
+    "type": "words",
+    "dur": 3.0,
+    "lines": [
+     [
+      "g'oya bor bo'lsa —",
+      "light",
+      "ink"
+     ],
+     [
+      "YETARLI",
+      "black",
+      "blue"
+     ]
+    ]
+   },
+   {
+    "type": "subscribe",
+    "dur": 4.6,
+    "title": "SAHIFAMIZGA",
+    "sub": "obuna bo'ling",
+    "handle": "xusniddintech",
+    "button": "Obuna",
+    "thanks": "Yashang!",
+    "tap_at": 2.0
+   }
+  ]
+ }
+}
