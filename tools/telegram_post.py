@@ -7,7 +7,7 @@ Manifest (posts/YYYY-MM-DD.json):
 Media is downloaded immediately (Canva links expire in a few hours), then the
 job waits until post_at and sends: video -> sendVideo, carousel -> sendMediaGroup.
 """
-import json, os, sys, time, urllib.request, uuid
+import json, os, sys, time, urllib.parse, urllib.request, urllib.error, uuid
 from datetime import datetime, timezone
 
 TOKEN = os.environ.get("TELEGRAM_BOT_TOKEN", "").strip()
@@ -49,6 +49,24 @@ def tg_caption(text, limit=1024):
 def main(paths):
     if not TOKEN or not CHAT:
         raise SystemExit("TELEGRAM_BOT_TOKEN yoki TELEGRAM_CHAT_ID secret'i qo'shilmagan (Settings → Secrets and variables → Actions).")
+    def call(method, **params):
+        q = urllib.parse.urlencode(params)
+        try:
+            with urllib.request.urlopen(API + method + ("?" + q if q else ""), timeout=30) as r:
+                return json.load(r)
+        except urllib.error.HTTPError as e:
+            return json.loads(e.read() or b"{}")
+    me = call("getMe")
+    if not me.get("ok"):
+        raise SystemExit(f"Bot tokeni noto'g'ri: {me.get('description')}")
+    ch = call("getChat", chat_id=CHAT)
+    if not ch.get("ok"):
+        raise SystemExit(f"Kanal topilmadi yoki bot admin emas ({CHAT}): {ch.get('description')}")
+    adm = call("getChatMember", chat_id=CHAT, user_id=me["result"]["id"])
+    st = adm.get("result", {})
+    if st.get("status") not in ("administrator", "creator") or st.get("can_post_messages") is False:
+        raise SystemExit(f"Bot kanalda xabar joylash huquqiga ega emas (status: {st.get('status')})")
+    print(f"::notice::Bot @{me['result']['username']} -> kanal '{ch['result'].get('title')}' tayyor")
     jobs = []
     for p in paths:
         m = json.load(open(p))
