@@ -85,7 +85,9 @@ def main(paths):
             print(f"{when.isoformat()} gacha {int(wait // 60)} daqiqa kutiladi")
             time.sleep(wait)
         cap = tg_caption(m.get("caption", ""))
-        if m["type"] == "video":
+        if m["type"] == "text":
+            multipart("sendMessage", {"chat_id": CHAT, "text": m.get("caption", "")}, {})
+        elif m["type"] == "video":
             multipart("sendVideo", {"chat_id": CHAT, "caption": cap, "supports_streaming": "true", "width": "1080", "height": "1920"},
                       {"video": ("reel.mp4", files[0], "video/mp4")})
         elif len(files) == 1:
