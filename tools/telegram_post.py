@@ -84,4 +84,12 @@ def main(paths):
 
 
 if __name__ == "__main__":
-    main([p for p in sys.argv[1:] if p.endswith(".json")])
+    try:
+        main([p for p in sys.argv[1:] if p.endswith(".json")])
+    except SystemExit as e:
+        if e.code not in (0, None):
+            print(f"::error::{e.code}")
+        raise
+    except Exception as e:
+        print(f"::error::{type(e).__name__}: {e}")
+        raise
