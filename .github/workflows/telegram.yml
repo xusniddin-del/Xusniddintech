@@ -37,6 +37,6 @@ jobs:
         if: steps.list.outputs.files != ''
         env:
           TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
-          TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
+          TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID || vars.TELEGRAM_CHAT_ID }}
           SEND_NOW: ${{ steps.list.outputs.now }}
         run: python3 tools/telegram_post.py ${{ steps.list.outputs.files }}
