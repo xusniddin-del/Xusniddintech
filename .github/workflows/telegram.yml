@@ -29,7 +29,7 @@ jobs:
           if [ -n "${{ github.event.inputs.manifest }}" ]; then
             echo "files=${{ github.event.inputs.manifest }}" >> "$GITHUB_OUTPUT"; echo "now=1" >> "$GITHUB_OUTPUT"
           elif git rev-parse HEAD~1 >/dev/null 2>&1; then
-            echo "files=$(git diff --name-only --diff-filter=AM HEAD~1 HEAD -- posts/ | tr '\n' ' ')" >> "$GITHUB_OUTPUT"
+            echo "files=$(git diff --name-only --diff-filter=A HEAD~1 HEAD -- posts/ | tr '\n' ' ')" >> "$GITHUB_OUTPUT"
           else
             echo "files=$(ls posts/*.json 2>/dev/null | tr '\n' ' ')" >> "$GITHUB_OUTPUT"
           fi
