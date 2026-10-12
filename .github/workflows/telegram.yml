@@ -1,0 +1,42 @@
+name: Telegram kanalga joylash
+
+# The daily Instagram autopilot pushes posts/YYYY-MM-DD.json to this branch.
+# This job downloads the media right away and sends it to the Telegram channel at post_at.
+on:
+  push:
+    branches: [instagram-media]
+    paths: ["posts/**.json"]
+  workflow_dispatch:
+    inputs:
+      manifest:
+        description: "Manifest yo'li (masalan posts/2026-10-13.json), darhol yuborish uchun"
+        required: true
+
+permissions:
+  contents: read
+
+jobs:
+  send:
+    runs-on: ubuntu-latest
+    timeout-minutes: 350
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 2
+      - name: Yangi postlarni aniqlash
+        id: list
+        run: |
+          if [ -n "${{ github.event.inputs.manifest }}" ]; then
+            echo "files=${{ github.event.inputs.manifest }}" >> "$GITHUB_OUTPUT"; echo "now=1" >> "$GITHUB_OUTPUT"
+          elif git rev-parse HEAD~1 >/dev/null 2>&1; then
+            echo "files=$(git diff --name-only --diff-filter=AM HEAD~1 HEAD -- posts/ | tr '\n' ' ')" >> "$GITHUB_OUTPUT"
+          else
+            echo "files=$(ls posts/*.json 2>/dev/null | tr '\n' ' ')" >> "$GITHUB_OUTPUT"
+          fi
+      - name: Telegram'ga yuborish
+        if: steps.list.outputs.files != ''
+        env:
+          TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
+          TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
+          SEND_NOW: ${{ steps.list.outputs.now }}
+        run: python3 tools/telegram_post.py ${{ steps.list.outputs.files }}
