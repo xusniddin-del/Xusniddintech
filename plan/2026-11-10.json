@@ -4,7 +4,7 @@
  "time": "20:30",
  "topic": "ai",
  "title": "Ovozni AI YARATADI",
- "caption": "Ovozni AI yaratadi 🎬\n\n1) ELEVENLABS\nMatnni tabiiy ovozga, aylantiradi\n\n2) WHISPER\nOvozni matnga, yozib beradi\n\n3) SUNO\nBir gapdan, butun qo'shiq\n\n💾 Saqlab qo'ying va do'stingizga yuboring.\n🔔 Har kuni foydali kontent — kuzatib boring.\n\n#suniyintellekt #ai #chatgpt #xusniddintech #ozbekcha",
+ "caption": "Ovozni AI yaratadi 🎬\n\n1) ELEVENLABS\nMatnni tabiiy ovozga, aylantiradi\n\n2) WHISPER\nOvozni matnga, yozib beradi\n\n3) SUNO\nBir gapdan, butun qöşiq\n\n💾 Saqlab qöying va döstingizga yuboring.\n🔔 Har kuni foydali kontent — kuzatib boring.\n\n#suniyintellekt #ai #chatgpt #xusniddintech #ozbekcha",
  "media": [
   "https://raw.githubusercontent.com/xusniddin-del/Xusniddintech/instagram-media/media/2026-11-10.mp4"
  ],
@@ -51,7 +51,7 @@
    {
     "type": "cards",
     "dur": 4.2,
-    "kicker": "Ovoz uchun",
+    "kicker": "Ovoz uçun",
     "title": "AI'LAR",
     "cards": [
      "ELEVENLABS",
@@ -82,7 +82,7 @@
     "num": "3",
     "head": "SUNO",
     "l1": "Bir gapdan",
-    "l2": "butun qo'shiq"
+    "l2": "butun qöşiq"
    },
    {
     "type": "words",
@@ -99,7 +99,7 @@
       "ink"
      ],
      [
-      "ISHLATMANG",
+      "IŞLATMANG",
       "black",
       "blue"
      ]
@@ -109,10 +109,10 @@
     "type": "subscribe",
     "dur": 4.6,
     "title": "SAHIFAMIZGA",
-    "sub": "obuna bo'ling",
+    "sub": "obuna böling",
     "handle": "xusniddintech",
     "button": "Obuna",
-    "thanks": "Yashang!",
+    "thanks": "Yaşang!",
     "tap_at": 2.0
    }
   ]

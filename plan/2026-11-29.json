@@ -3,8 +3,8 @@
  "type": "video",
  "time": "19:30",
  "topic": "vibe",
- "title": "Vibe coding'ning XAVFLARI",
- "caption": "Vibe coding'ning xavflari 🎬\n\n1) PAROLLAR\nKod ichida parol, va token qoldirmang\n\n2) TUSHUNING\nIshlayotgan kodni, AI'dan tushuntirtiring\n\n3) ZAXIRA\nGit bilan saqlang — xato bo'lsa qaytasiz\n\n💾 Saqlab qo'ying va do'stingizga yuboring.\n🔔 Har kuni foydali kontent — kuzatib boring.\n\n#vibecoding #dasturlash #ai #xusniddintech #ozbekcha",
+ "title": "Vibe codinğning XAVFLARI",
+ "caption": "Vibe codinğning xavflari 🎬\n\n1) PAROLLAR\nKod içida parol, va token qoldirmang\n\n2) TUŞUNING\nIşlayotgan kodni, AI'dan tuşuntirtiring\n\n3) ZAXIRA\nGit bilan saqlang — xato bölsa qaytasiz\n\n💾 Saqlab qöying va döstingizga yuboring.\n🔔 Har kuni foydali kontent — kuzatib boring.\n\n#vibecoding #dasturlash #ai #xusniddintech #ozbekcha",
  "media": [
   "https://raw.githubusercontent.com/xusniddin-del/Xusniddintech/instagram-media/media/2026-11-29.mp4"
  ],
@@ -16,7 +16,7 @@
     "dur": 3.2,
     "lines": [
      [
-      "Vibe coding'ning",
+      "Vibe codinğning",
       "light",
       "ink"
      ],
@@ -37,7 +37,7 @@
       "ink"
      ],
      [
-      "ISHLATING",
+      "IŞLATING",
       "black",
       "blue"
      ]
@@ -47,12 +47,12 @@
     "type": "cards",
     "dur": 4.2,
     "kicker": "Ehtiyot",
-    "title": "BO'LING",
+    "title": "BÖLING",
     "cards": [
      "PAROL",
-     "TUSHUNISH",
+     "TUŞUNIŞ",
      "ZAXIRA",
-     "TEKSHIRUV"
+     "TEKŞIRUV"
     ]
    },
    {
@@ -60,16 +60,16 @@
     "dur": 3.3,
     "num": "1",
     "head": "PAROLLAR",
-    "l1": "Kod ichida parol",
+    "l1": "Kod içida parol",
     "l2": "va token qoldirmang"
    },
    {
     "type": "number",
     "dur": 3.3,
     "num": "2",
-    "head": "TUSHUNING",
-    "l1": "Ishlayotgan kodni",
-    "l2": "AI'dan tushuntirtiring"
+    "head": "TUŞUNING",
+    "l1": "Işlayotgan kodni",
+    "l2": "AI'dan tuşuntirtiring"
    },
    {
     "type": "number",
@@ -77,7 +77,7 @@
     "num": "3",
     "head": "ZAXIRA",
     "l1": "Git bilan saqlang —",
-    "l2": "xato bo'lsa qaytasiz"
+    "l2": "xato bölsa qaytasiz"
    },
    {
     "type": "words",
@@ -94,7 +94,7 @@
       "ink"
      ],
      [
-      "KUCH",
+      "KUÇ",
       "black",
       "blue"
      ]
@@ -104,10 +104,10 @@
     "type": "subscribe",
     "dur": 4.6,
     "title": "SAHIFAMIZGA",
-    "sub": "obuna bo'ling",
+    "sub": "obuna böling",
     "handle": "xusniddintech",
     "button": "Obuna",
-    "thanks": "Yashang!",
+    "thanks": "Yaşang!",
     "tap_at": 2.0
    }
   ]

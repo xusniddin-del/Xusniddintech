@@ -3,8 +3,8 @@
  "type": "video",
  "time": "20:30",
  "topic": "ai",
- "title": "AI'ga ISHONSA BO'LADIMI?",
- "caption": "AI'ga ishonsa bo'ladimi? 🎬\n\n1) MANBA SO'RANG\n\"Bu ma'lumot qayerdan?\" deb so'rang\n\n2) RAQAMLAR\nStatistika va sanalarni, rasmiy saytda tekshiring\n\n3) SHAXSIY MA'LUMOT\nParol, karta raqamini, AI'ga yozmang\n\n💾 Saqlab qo'ying va do'stingizga yuboring.\n🔔 Har kuni foydali kontent — kuzatib boring.\n\n#suniyintellekt #ai #chatgpt #xusniddintech #ozbekcha",
+ "title": "AI'ga IŞONSA BÖLADIMI?",
+ "caption": "AI'ga işonsa böladimi? 🎬\n\n1) MANBA SÖRANG\n\"Bu ma'lumot qayerdan?\" deb sörang\n\n2) RAQAMLAR\nStatistika va sanalarni, rasmiy saytda tekşiring\n\n3) ŞAXSIY MA'LUMOT\nParol, karta raqamini, AI'ga yozmang\n\n💾 Saqlab qöying va döstingizga yuboring.\n🔔 Har kuni foydali kontent — kuzatib boring.\n\n#suniyintellekt #ai #chatgpt #xusniddintech #ozbekcha",
  "media": [
   "https://raw.githubusercontent.com/xusniddin-del/Xusniddintech/instagram-media/media/2026-11-24.mp4"
  ],
@@ -21,12 +21,12 @@
       "ink"
      ],
      [
-      "ISHONSA",
+      "IŞONSA",
       "black",
       "ink"
      ],
      [
-      "BO'LADIMI?",
+      "BÖLADIMI?",
       "black",
       "blue"
      ]
@@ -42,7 +42,7 @@
       "ink"
      ],
      [
-      "ADASHADI",
+      "ADAŞADI",
       "black",
       "blue"
      ]
@@ -51,7 +51,7 @@
    {
     "type": "cards",
     "dur": 4.2,
-    "kicker": "Tekshiring",
+    "kicker": "Tekşiring",
     "title": "3 QOIDA",
     "cards": [
      "MANBA",
@@ -64,9 +64,9 @@
     "type": "number",
     "dur": 3.3,
     "num": "1",
-    "head": "MANBA SO'RANG",
+    "head": "MANBA SÖRANG",
     "l1": "\"Bu ma'lumot qayerdan?\"",
-    "l2": "deb so'rang"
+    "l2": "deb sörang"
    },
    {
     "type": "number",
@@ -74,13 +74,13 @@
     "num": "2",
     "head": "RAQAMLAR",
     "l1": "Statistika va sanalarni",
-    "l2": "rasmiy saytda tekshiring"
+    "l2": "rasmiy saytda tekşiring"
    },
    {
     "type": "number",
     "dur": 3.3,
     "num": "3",
-    "head": "SHAXSIY MA'LUMOT",
+    "head": "ŞAXSIY MA'LUMOT",
     "l1": "Parol, karta raqamini",
     "l2": "AI'ga yozmang"
    },
@@ -109,10 +109,10 @@
     "type": "subscribe",
     "dur": 4.6,
     "title": "SAHIFAMIZGA",
-    "sub": "obuna bo'ling",
+    "sub": "obuna böling",
     "handle": "xusniddintech",
     "button": "Obuna",
-    "thanks": "Yashang!",
+    "thanks": "Yaşang!",
     "tap_at": 2.0
    }
   ]

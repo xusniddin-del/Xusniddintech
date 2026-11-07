@@ -4,7 +4,7 @@
  "time": "19:00",
  "topic": "komp",
  "title": "Brauzer SHORTCUTLARI",
- "caption": "Brauzer shortcutlari\nSichqonchasiz tez ishlang 👇\n\n1) YANGI TAB\nCtrl + T, yopilganini qaytarish: Ctrl+Shift+T\n\n2) MANZIL\nCtrl + L, manzil qatoriga o'tish\n\n3) TABLAR ARO\nCtrl + Tab, keyingi tabga o'tish\n\n4) XATCHO'P\nCtrl + D, sahifani saqlab qo'yish\n\n5) YASHIRIN\nCtrl + Shift + N, inkognito oyna\n\n💾 Saqlab qo'ying, kerak bo'ladi.\n💬 Siz nechta tab ochib yurasiz?\n\n#kompyutersavodxonligi #kompyuter #office #xusniddintech #ozbekcha",
+ "caption": "Brauzer shortcutlari\nSiçqonçasiz tez işlang 👇\n\n1) YANGI TAB\nCtrl + T, yopilganini qaytariş: Ctrl+Shift+T\n\n2) MANZIL\nCtrl + L, manzil qatoriga ötiş\n\n3) TABLAR ARO\nCtrl + Tab, keyingi tabga ötiş\n\n4) XATÇÖP\nCtrl + D, sahifani saqlab qöyiş\n\n5) YAŞIRIN\nCtrl + Shift + N, inkognito oyna\n\n💾 Saqlab qöying, kerak böladi.\n💬 Siz neçta tab oçib yurasiz?\n\n#kompyutersavodxonligi #kompyuter #office #xusniddintech #ozbekcha",
  "media": [
   "https://raw.githubusercontent.com/xusniddin-del/Xusniddintech/instagram-media/media/2026-11-23/01.jpg",
   "https://raw.githubusercontent.com/xusniddin-del/Xusniddintech/instagram-media/media/2026-11-23/02.jpg",
@@ -30,7 +30,7 @@
       "blue"
      ]
     ],
-    "sub": "Sichqonchasiz tez ishlang",
+    "sub": "Siçqonçasiz tez işlang",
     "cta": "Suring"
    },
    {
@@ -39,7 +39,7 @@
     "num": "1",
     "head": "YANGI TAB",
     "l1": "Ctrl + T",
-    "l2": "yopilganini qaytarish: Ctrl+Shift+T"
+    "l2": "yopilganini qaytariş: Ctrl+Shift+T"
    },
    {
     "type": "number",
@@ -47,7 +47,7 @@
     "num": "2",
     "head": "MANZIL",
     "l1": "Ctrl + L",
-    "l2": "manzil qatoriga o'tish"
+    "l2": "manzil qatoriga ötiş"
    },
    {
     "type": "number",
@@ -55,29 +55,29 @@
     "num": "3",
     "head": "TABLAR ARO",
     "l1": "Ctrl + Tab",
-    "l2": "keyingi tabga o'tish"
+    "l2": "keyingi tabga ötiş"
    },
    {
     "type": "number",
     "pill": "04",
     "num": "4",
-    "head": "XATCHO'P",
+    "head": "XATÇÖP",
     "l1": "Ctrl + D",
-    "l2": "sahifani saqlab qo'yish"
+    "l2": "sahifani saqlab qöyiş"
    },
    {
     "type": "number",
     "pill": "05",
     "num": "5",
-    "head": "YASHIRIN",
+    "head": "YAŞIRIN",
     "l1": "Ctrl + Shift + N",
     "l2": "inkognito oyna"
    },
    {
     "type": "cta",
     "l1": "SAQLAB",
-    "l2": "QO'YING",
-    "q": "Siz nechta tab ochib yurasiz?"
+    "l2": "QÖYING",
+    "q": "Siz neçta tab oçib yurasiz?"
    }
   ]
  }

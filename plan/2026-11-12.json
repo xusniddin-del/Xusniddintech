@@ -4,7 +4,7 @@
  "time": "20:30",
  "topic": "dizayn",
  "title": "Instagram post XATOLARI",
- "caption": "Instagram post xatolari 🎬\n\n1) KO'P MATN\nBir postda, bitta asosiy fikr\n\n2) MAYDA SHRIFT\nTelefonda, o'qib bo'lmaydi\n\n3) KO'P RANG\nBrend ranglari, 2-3 ta yetarli\n\n💾 Saqlab qo'ying va do'stingizga yuboring.\n🔔 Har kuni foydali kontent — kuzatib boring.\n\n#grafikdizayn #dizayn #dizayner #xusniddintech #ozbekcha",
+ "caption": "Instagram post xatolari 🎬\n\n1) KÖP MATN\nBir postda, bitta asosiy fikr\n\n2) MAYDA ŞRIFT\nTelefonda, öqib bölmaydi\n\n3) KÖP RANG\nBrend ranglari, 2-3 ta yetarli\n\n💾 Saqlab qöying va döstingizga yuboring.\n🔔 Har kuni foydali kontent — kuzatib boring.\n\n#grafikdizayn #dizayn #dizayner #xusniddintech #ozbekcha",
  "media": [
   "https://raw.githubusercontent.com/xusniddin-del/Xusniddintech/instagram-media/media/2026-11-12.mp4"
  ],
@@ -32,12 +32,12 @@
     "dur": 2.6,
     "lines": [
      [
-      "ko'pchilik",
+      "köpçilik",
       "light",
       "ink"
      ],
      [
-      "SHUNDAY QILADI",
+      "ŞUNDAY QILADI",
       "black",
       "blue"
      ]
@@ -49,9 +49,9 @@
     "kicker": "Xatolar",
     "title": "TOP 4",
     "cards": [
-     "KO'P MATN",
-     "MAYDA SHRIFT",
-     "KO'P RANG",
+     "KÖP MATN",
+     "MAYDA ŞRIFT",
+     "KÖP RANG",
      "TARTIBSIZ"
     ]
    },
@@ -59,7 +59,7 @@
     "type": "number",
     "dur": 3.3,
     "num": "1",
-    "head": "KO'P MATN",
+    "head": "KÖP MATN",
     "l1": "Bir postda",
     "l2": "bitta asosiy fikr"
    },
@@ -67,15 +67,15 @@
     "type": "number",
     "dur": 3.3,
     "num": "2",
-    "head": "MAYDA SHRIFT",
+    "head": "MAYDA ŞRIFT",
     "l1": "Telefonda",
-    "l2": "o'qib bo'lmaydi"
+    "l2": "öqib bölmaydi"
    },
    {
     "type": "number",
     "dur": 3.3,
     "num": "3",
-    "head": "KO'P RANG",
+    "head": "KÖP RANG",
     "l1": "Brend ranglari",
     "l2": "2-3 ta yetarli"
    },
@@ -89,7 +89,7 @@
       "ink"
      ],
      [
-      "KUCHLIROQ",
+      "KUÇLIROQ",
       "black",
       "blue"
      ]
@@ -99,10 +99,10 @@
     "type": "subscribe",
     "dur": 4.6,
     "title": "SAHIFAMIZGA",
-    "sub": "obuna bo'ling",
+    "sub": "obuna böling",
     "handle": "xusniddintech",
     "button": "Obuna",
-    "thanks": "Yashang!",
+    "thanks": "Yaşang!",
     "tap_at": 2.0
    }
   ]

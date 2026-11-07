@@ -3,8 +3,8 @@
  "type": "carousel",
  "time": "19:00",
  "topic": "kiber",
- "title": "Internetga NIMANI QO'YMASLIK",
- "caption": "Internetga nimani qo'ymaslik\nBitta rasm ham xavfli bo'lishi mumkin 👇\n\n1) HUJJATLAR\nPasport, ID karta, rasmini joylamang\n\n2) BILET VA CHEK\nShtrix-kodda, shaxsiy ma'lumot bor\n\n3) MANZIL\nUy, maktab joyi, real vaqtda — yo'q\n\n4) KARTA\nKarta raqami, CVV, hech qachon\n\n5) SAFAR\n\"Uyda hech kim yo'q\" qaytgandan keyin joylang\n\n💾 Saqlab qo'ying, kerak bo'ladi.\n💬 Qaysi birini bilmagan edingiz?\n\n#kiberxavfsizlik #xavfsizlik #parol #xusniddintech #ozbekcha",
+ "title": "Internetga NIMANI QÖYMASLIK",
+ "caption": "Internetga nimani qöymaslik\nBitta rasm ham xavfli bölişi mumkin 👇\n\n1) HUJJATLAR\nPasport, ID karta, rasmini joylamang\n\n2) BILET VA ÇEK\nŞtrix-kodda, şaxsiy ma'lumot bor\n\n3) MANZIL\nUy, maktab joyi, real vaqtda — yöq\n\n4) KARTA\nKarta raqami, CVV, heç qaçon\n\n5) SAFAR\n\"Uyda heç kim yöq\" qaytgandan keyin joylang\n\n💾 Saqlab qöying, kerak böladi.\n💬 Qaysi birini bilmagan edingiz?\n\n#kiberxavfsizlik #xavfsizlik #parol #xusniddintech #ozbekcha",
  "media": [
   "https://raw.githubusercontent.com/xusniddin-del/Xusniddintech/instagram-media/media/2026-11-18/01.jpg",
   "https://raw.githubusercontent.com/xusniddin-del/Xusniddintech/instagram-media/media/2026-11-18/02.jpg",
@@ -25,12 +25,12 @@
       "ink"
      ],
      [
-      "NIMANI QO'YMASLIK",
+      "NIMANI QÖYMASLIK",
       "black",
       "blue"
      ]
     ],
-    "sub": "Bitta rasm ham xavfli bo'lishi mumkin",
+    "sub": "Bitta rasm ham xavfli bölişi mumkin",
     "cta": "Suring"
    },
    {
@@ -45,9 +45,9 @@
     "type": "number",
     "pill": "02",
     "num": "2",
-    "head": "BILET VA CHEK",
-    "l1": "Shtrix-kodda",
-    "l2": "shaxsiy ma'lumot bor"
+    "head": "BILET VA ÇEK",
+    "l1": "Ştrix-kodda",
+    "l2": "şaxsiy ma'lumot bor"
    },
    {
     "type": "number",
@@ -55,7 +55,7 @@
     "num": "3",
     "head": "MANZIL",
     "l1": "Uy, maktab joyi",
-    "l2": "real vaqtda — yo'q"
+    "l2": "real vaqtda — yöq"
    },
    {
     "type": "number",
@@ -63,20 +63,20 @@
     "num": "4",
     "head": "KARTA",
     "l1": "Karta raqami, CVV",
-    "l2": "hech qachon"
+    "l2": "heç qaçon"
    },
    {
     "type": "number",
     "pill": "05",
     "num": "5",
     "head": "SAFAR",
-    "l1": "\"Uyda hech kim yo'q\"",
+    "l1": "\"Uyda heç kim yöq\"",
     "l2": "qaytgandan keyin joylang"
    },
    {
     "type": "cta",
     "l1": "SAQLAB",
-    "l2": "QO'YING",
+    "l2": "QÖYING",
     "q": "Qaysi birini bilmagan edingiz?"
    }
   ]

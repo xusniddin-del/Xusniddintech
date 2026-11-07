@@ -4,7 +4,7 @@
  "time": "19:00",
  "topic": "kiber",
  "title": "Telefoningiz BUZILGANMI?",
- "caption": "Telefoningiz buzilganmi?\n5 ta xavfli belgi 👇\n\n1) BATAREYA\nTez tugayapti, va telefon qiziyapti\n\n2) NOTANISH ILOVA\nO'zingiz o'rnatmagan, ilova paydo bo'ldi\n\n3) REKLAMA\nHamma joyda, kutilmagan reklama\n\n4) TRAFIK\nInternet tez, sarflanyapti\n\n5) XABARLAR\nDo'stlaringizga siz nomingizdan, g'alati xabar ketgan\n\n💾 Saqlab qo'ying, kerak bo'ladi.\n💬 Shunday holat bo'lganmi?\n\n#kiberxavfsizlik #xavfsizlik #parol #xusniddintech #ozbekcha",
+ "caption": "Telefoningiz buzilganmi?\n5 ta xavfli belgi 👇\n\n1) BATAREYA\nTez tugayapti, va telefon qiziyapti\n\n2) NOTANIŞ ILOVA\nÖzingiz örnatmagan, ilova paydo böldi\n\n3) REKLAMA\nHamma joyda, kutilmagan reklama\n\n4) TRAFIK\nInternet tez, sarflanyapti\n\n5) XABARLAR\nDöstlaringizga siz nomingizdan, ğalati xabar ketgan\n\n💾 Saqlab qöying, kerak böladi.\n💬 Şunday holat bölganmi?\n\n#kiberxavfsizlik #xavfsizlik #parol #xusniddintech #ozbekcha",
  "media": [
   "https://raw.githubusercontent.com/xusniddin-del/Xusniddintech/instagram-media/media/2026-11-11/01.jpg",
   "https://raw.githubusercontent.com/xusniddin-del/Xusniddintech/instagram-media/media/2026-11-11/02.jpg",
@@ -45,9 +45,9 @@
     "type": "number",
     "pill": "02",
     "num": "2",
-    "head": "NOTANISH ILOVA",
-    "l1": "O'zingiz o'rnatmagan",
-    "l2": "ilova paydo bo'ldi"
+    "head": "NOTANIŞ ILOVA",
+    "l1": "Özingiz örnatmagan",
+    "l2": "ilova paydo böldi"
    },
    {
     "type": "number",
@@ -70,14 +70,14 @@
     "pill": "05",
     "num": "5",
     "head": "XABARLAR",
-    "l1": "Do'stlaringizga siz nomingizdan",
-    "l2": "g'alati xabar ketgan"
+    "l1": "Döstlaringizga siz nomingizdan",
+    "l2": "ğalati xabar ketgan"
    },
    {
     "type": "cta",
     "l1": "SAQLAB",
-    "l2": "QO'YING",
-    "q": "Shunday holat bo'lganmi?"
+    "l2": "QÖYING",
+    "q": "Şunday holat bölganmi?"
    }
   ]
  }

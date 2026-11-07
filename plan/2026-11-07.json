@@ -3,8 +3,8 @@
  "type": "video",
  "time": "20:00",
  "topic": "scratch",
- "title": "O'yinga BALL QO'SHAMIZ",
- "caption": "O'yinga ball qo'shamiz 🎬\n\n1) YARATING\nO'zgaruvchilar → \"Ball\" nomli yangi\n\n2) NOLGA\nBoshida \"Ball\"ni, 0 ga tenglang\n\n3) QO'SHING\nTegsa → \"Ball\"ni, 1 ga o'zgartiring\n\n💾 Saqlab qo'ying va do'stingizga yuboring.\n🔔 Har kuni foydali kontent — kuzatib boring.\n\n#scratch #bolalaruchun #dasturlash #xusniddintech #ozbekcha",
+ "title": "Öyinga BALL QÖŞAMIZ",
+ "caption": "Öyinga ball qöşamiz 🎬\n\n1) YARATING\nÖzgaruvçilar → \"Ball\" nomli yangi\n\n2) NOLGA\nBoşida \"Ball\"ni, 0 ga tenglang\n\n3) QÖŞING\nTegsa → \"Ball\"ni, 1 ga özgartiring\n\n💾 Saqlab qöying va döstingizga yuboring.\n🔔 Har kuni foydali kontent — kuzatib boring.\n\n#scratch #bolalaruchun #dasturlash #xusniddintech #ozbekcha",
  "media": [
   "https://raw.githubusercontent.com/xusniddin-del/Xusniddintech/instagram-media/media/2026-11-07.mp4"
  ],
@@ -16,7 +16,7 @@
     "dur": 3.2,
     "lines": [
      [
-      "O'yinga",
+      "Öyinga",
       "light",
       "ink"
      ],
@@ -26,7 +26,7 @@
       "ink"
      ],
      [
-      "QO'SHAMIZ",
+      "QÖŞAMIZ",
       "black",
       "blue"
      ]
@@ -42,7 +42,7 @@
       "ink"
      ],
      [
-      "O'ZGARUVCHI",
+      "ÖZGARUVÇI",
       "black",
       "blue"
      ]
@@ -54,10 +54,10 @@
     "kicker": "Ball tizimi",
     "title": "QADAMLAR",
     "cards": [
-     "YARATISH",
+     "YARATIŞ",
      "NOL",
-     "QO'SHISH",
-     "KO'RSATISH"
+     "QÖŞIŞ",
+     "KÖRSATIŞ"
     ]
    },
    {
@@ -65,7 +65,7 @@
     "dur": 3.3,
     "num": "1",
     "head": "YARATING",
-    "l1": "O'zgaruvchilar →",
+    "l1": "Özgaruvçilar →",
     "l2": "\"Ball\" nomli yangi"
    },
    {
@@ -73,16 +73,16 @@
     "dur": 3.3,
     "num": "2",
     "head": "NOLGA",
-    "l1": "Boshida \"Ball\"ni",
+    "l1": "Boşida \"Ball\"ni",
     "l2": "0 ga tenglang"
    },
    {
     "type": "number",
     "dur": 3.3,
     "num": "3",
-    "head": "QO'SHING",
+    "head": "QÖŞING",
     "l1": "Tegsa → \"Ball\"ni",
-    "l2": "1 ga o'zgartiring"
+    "l2": "1 ga özgartiring"
    },
    {
     "type": "words",
@@ -99,7 +99,7 @@
       "ink"
      ],
      [
-      "QO'YING",
+      "QÖYING",
       "black",
       "blue"
      ]
@@ -109,10 +109,10 @@
     "type": "subscribe",
     "dur": 4.6,
     "title": "SAHIFAMIZGA",
-    "sub": "obuna bo'ling",
+    "sub": "obuna böling",
     "handle": "xusniddintech",
     "button": "Obuna",
-    "thanks": "Yashang!",
+    "thanks": "Yaşang!",
     "tap_at": 2.0
    }
   ]

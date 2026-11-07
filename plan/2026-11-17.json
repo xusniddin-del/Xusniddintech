@@ -4,7 +4,7 @@
  "time": "20:30",
  "topic": "ai",
  "title": "Qaysi AI SIZGA KERAK?",
- "caption": "Qaysi AI sizga kerak? 🎬\n\n1) CHATGPT\nUniversal yordamchi, rasm, ovoz, matn\n\n2) CLAUDE\nUzun matn va kod, tahlil va yozish\n\n3) PERPLEXITY\nInternetdan qidiradi, manbalari bilan\n\n💾 Saqlab qo'ying va do'stingizga yuboring.\n🔔 Har kuni foydali kontent — kuzatib boring.\n\n#suniyintellekt #ai #chatgpt #xusniddintech #ozbekcha",
+ "caption": "Qaysi AI sizga kerak? 🎬\n\n1) CHATGPT\nUniversal yordamçi, rasm, ovoz, matn\n\n2) CLAUDE\nUzun matn va kod, tahlil va yoziş\n\n3) PERPLEXITY\nInternetdan qidiradi, manbalari bilan\n\n💾 Saqlab qöying va döstingizga yuboring.\n🔔 Har kuni foydali kontent — kuzatib boring.\n\n#suniyintellekt #ai #chatgpt #xusniddintech #ozbekcha",
  "media": [
   "https://raw.githubusercontent.com/xusniddin-del/Xusniddintech/instagram-media/media/2026-11-17.mp4"
  ],
@@ -42,7 +42,7 @@
       "ink"
      ],
      [
-      "YORDAMCHI",
+      "YORDAMÇI",
       "black",
       "blue"
      ]
@@ -51,7 +51,7 @@
    {
     "type": "cards",
     "dur": 4.2,
-    "kicker": "Taqqoslash",
+    "kicker": "Taqqoslaş",
     "title": "4 TA AI",
     "cards": [
      "CHATGPT",
@@ -65,7 +65,7 @@
     "dur": 3.3,
     "num": "1",
     "head": "CHATGPT",
-    "l1": "Universal yordamchi",
+    "l1": "Universal yordamçi",
     "l2": "rasm, ovoz, matn"
    },
    {
@@ -74,7 +74,7 @@
     "num": "2",
     "head": "CLAUDE",
     "l1": "Uzun matn va kod",
-    "l2": "tahlil va yozish"
+    "l2": "tahlil va yoziş"
    },
    {
     "type": "number",
@@ -99,7 +99,7 @@
       "ink"
      ],
      [
-      "ISHLATING",
+      "IŞLATING",
       "black",
       "blue"
      ]
@@ -109,10 +109,10 @@
     "type": "subscribe",
     "dur": 4.6,
     "title": "SAHIFAMIZGA",
-    "sub": "obuna bo'ling",
+    "sub": "obuna böling",
     "handle": "xusniddintech",
     "button": "Obuna",
-    "thanks": "Yashang!",
+    "thanks": "Yaşang!",
     "tap_at": 2.0
    }
   ]

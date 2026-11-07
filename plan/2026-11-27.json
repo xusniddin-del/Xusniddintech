@@ -3,8 +3,8 @@
  "type": "carousel",
  "time": "18:30",
  "topic": "uiux",
- "title": "UI/UX'ni NOLDAN O'RGANISH",
- "caption": "UI/UX'ni noldan o'rganish\n5 qadamli yo'l xaritasi 👇\n\n1) ASOSLAR\nRang, shrift, kompozitsiya, dizayn tamoyillari\n\n2) FIGMA\nFrame, auto layout, komponentlar, prototip\n\n3) UX JARAYONI\nTadqiqot, persona, wireframe, test\n\n4) NUSXA OLING\nMashhur ilovalarni, qayta chizib mashq qiling\n\n5) PORTFOLIO\n3 ta to'liq loyiha, Behance yoki Dribbble'da\n\n💾 Saqlab qo'ying, kerak bo'ladi.\n💬 Siz hozir qaysi qadamdasiz?\n\n#uiux #uidesign #figma #xusniddintech #ozbekcha",
+ "title": "UI/UX'ni NOLDAN ÖRGANIŞ",
+ "caption": "UI/UX'ni noldan örganiş\n5 qadamli yöl xaritasi 👇\n\n1) ASOSLAR\nRang, şrift, kompozitsiya, dizayn tamoyillari\n\n2) FIGMA\nFrame, auto layout, komponentlar, prototip\n\n3) UX JARAYONI\nTadqiqot, persona, wireframe, test\n\n4) NUSXA OLING\nMaşhur ilovalarni, qayta çizib maşq qiling\n\n5) PORTFOLIO\n3 ta töliq loyiha, Behance yoki Dribbble'da\n\n💾 Saqlab qöying, kerak böladi.\n💬 Siz hozir qaysi qadamdasiz?\n\n#uiux #uidesign #figma #xusniddintech #ozbekcha",
  "media": [
   "https://raw.githubusercontent.com/xusniddin-del/Xusniddintech/instagram-media/media/2026-11-27/01.jpg",
   "https://raw.githubusercontent.com/xusniddin-del/Xusniddintech/instagram-media/media/2026-11-27/02.jpg",
@@ -25,12 +25,12 @@
       "ink"
      ],
      [
-      "NOLDAN O'RGANISH",
+      "NOLDAN ÖRGANIŞ",
       "black",
       "blue"
      ]
     ],
-    "sub": "5 qadamli yo'l xaritasi",
+    "sub": "5 qadamli yöl xaritasi",
     "cta": "Suring"
    },
    {
@@ -38,7 +38,7 @@
     "pill": "01",
     "num": "1",
     "head": "ASOSLAR",
-    "l1": "Rang, shrift, kompozitsiya",
+    "l1": "Rang, şrift, kompozitsiya",
     "l2": "dizayn tamoyillari"
    },
    {
@@ -62,21 +62,21 @@
     "pill": "04",
     "num": "4",
     "head": "NUSXA OLING",
-    "l1": "Mashhur ilovalarni",
-    "l2": "qayta chizib mashq qiling"
+    "l1": "Maşhur ilovalarni",
+    "l2": "qayta çizib maşq qiling"
    },
    {
     "type": "number",
     "pill": "05",
     "num": "5",
     "head": "PORTFOLIO",
-    "l1": "3 ta to'liq loyiha",
+    "l1": "3 ta töliq loyiha",
     "l2": "Behance yoki Dribbble'da"
    },
    {
     "type": "cta",
     "l1": "SAQLAB",
-    "l2": "QO'YING",
+    "l2": "QÖYING",
     "q": "Siz hozir qaysi qadamdasiz?"
    }
   ]

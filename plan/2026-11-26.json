@@ -3,8 +3,8 @@
  "type": "video",
  "time": "20:30",
  "topic": "dizayn",
- "title": "Dizayner uchun BEPUL RESURSLAR",
- "caption": "Dizayner uchun bepul resurslar 🎬\n\n1) UNSPLASH\nSifatli bepul, fotosuratlar\n\n2) GOOGLE FONTS\n1500+ bepul, shriftlar\n\n3) ICONIFY\n200 mingdan ortiq, ikonka\n\n💾 Saqlab qo'ying va do'stingizga yuboring.\n🔔 Har kuni foydali kontent — kuzatib boring.\n\n#grafikdizayn #dizayn #dizayner #xusniddintech #ozbekcha",
+ "title": "Dizayner uçun BEPUL RESURSLAR",
+ "caption": "Dizayner uçun bepul resurslar 🎬\n\n1) UNSPLASH\nSifatli bepul, fotosuratlar\n\n2) GOOGLE FONTS\n1500+ bepul, şriftlar\n\n3) ICONIFY\n200 mingdan ortiq, ikonka\n\n💾 Saqlab qöying va döstingizga yuboring.\n🔔 Har kuni foydali kontent — kuzatib boring.\n\n#grafikdizayn #dizayn #dizayner #xusniddintech #ozbekcha",
  "media": [
   "https://raw.githubusercontent.com/xusniddin-del/Xusniddintech/instagram-media/media/2026-11-26.mp4"
  ],
@@ -16,7 +16,7 @@
     "dur": 3.2,
     "lines": [
      [
-      "Dizayner uchun",
+      "Dizayner uçun",
       "light",
       "ink"
      ],
@@ -42,7 +42,7 @@
       "ink"
      ],
      [
-      "QO'YING",
+      "QÖYING",
       "black",
       "blue"
      ]
@@ -74,7 +74,7 @@
     "num": "2",
     "head": "GOOGLE FONTS",
     "l1": "1500+ bepul",
-    "l2": "shriftlar"
+    "l2": "şriftlar"
    },
    {
     "type": "number",
@@ -99,7 +99,7 @@
       "ink"
      ],
      [
-      "TEKSHIRING",
+      "TEKŞIRING",
       "black",
       "blue"
      ]
@@ -109,10 +109,10 @@
     "type": "subscribe",
     "dur": 4.6,
     "title": "SAHIFAMIZGA",
-    "sub": "obuna bo'ling",
+    "sub": "obuna böling",
     "handle": "xusniddintech",
     "button": "Obuna",
-    "thanks": "Yashang!",
+    "thanks": "Yaşang!",
     "tap_at": 2.0
    }
   ]

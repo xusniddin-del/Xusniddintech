@@ -4,7 +4,7 @@
  "time": "19:00",
  "topic": "komp",
  "title": "PowerPoint QOIDALARI",
- "caption": "PowerPoint qoidalari\nTaqdimotingiz zerikarli bo'lmasin 👇\n\n1) 1 SLAYD = 1 FIKR\nHammasini bitta slaydga, tiqmang\n\n2) 6 X 6\nKo'pi bilan 6 qator, har qatorda 6 so'z\n\n3) KATTA SHRIFT\nKamida 28 pt, orqa qatordan ham ko'rinsin\n\n4) RASMLAR\nSifatli, katta rasm, matndan ko'ra kuchli\n\n5) ANIMATSIYA\nKam va bir xil, har slaydda boshqa emas\n\n💾 Saqlab qo'ying, kerak bo'ladi.\n💬 Qaysi qoidani buzgansiz?\n\n#kompyutersavodxonligi #kompyuter #office #xusniddintech #ozbekcha",
+ "caption": "PowerPoint qoidalari\nTaqdimotingiz zerikarli bölmasin 👇\n\n1) 1 SLAYD = 1 FIKR\nHammasini bitta slaydga, tiqmang\n\n2) 6 X 6\nKöpi bilan 6 qator, har qatorda 6 söz\n\n3) KATTA ŞRIFT\nKamida 28 pt, orqa qatordan ham körinsin\n\n4) RASMLAR\nSifatli, katta rasm, matndan köra kuçli\n\n5) ANIMATSIYA\nKam va bir xil, har slaydda boşqa emas\n\n💾 Saqlab qöying, kerak böladi.\n💬 Qaysi qoidani buzgansiz?\n\n#kompyutersavodxonligi #kompyuter #office #xusniddintech #ozbekcha",
  "media": [
   "https://raw.githubusercontent.com/xusniddin-del/Xusniddintech/instagram-media/media/2026-11-16/01.jpg",
   "https://raw.githubusercontent.com/xusniddin-del/Xusniddintech/instagram-media/media/2026-11-16/02.jpg",
@@ -30,7 +30,7 @@
       "blue"
      ]
     ],
-    "sub": "Taqdimotingiz zerikarli bo'lmasin",
+    "sub": "Taqdimotingiz zerikarli bölmasin",
     "cta": "Suring"
    },
    {
@@ -46,16 +46,16 @@
     "pill": "02",
     "num": "2",
     "head": "6 X 6",
-    "l1": "Ko'pi bilan 6 qator",
-    "l2": "har qatorda 6 so'z"
+    "l1": "Köpi bilan 6 qator",
+    "l2": "har qatorda 6 söz"
    },
    {
     "type": "number",
     "pill": "03",
     "num": "3",
-    "head": "KATTA SHRIFT",
+    "head": "KATTA ŞRIFT",
     "l1": "Kamida 28 pt",
-    "l2": "orqa qatordan ham ko'rinsin"
+    "l2": "orqa qatordan ham körinsin"
    },
    {
     "type": "number",
@@ -63,7 +63,7 @@
     "num": "4",
     "head": "RASMLAR",
     "l1": "Sifatli, katta rasm",
-    "l2": "matndan ko'ra kuchli"
+    "l2": "matndan köra kuçli"
    },
    {
     "type": "number",
@@ -71,12 +71,12 @@
     "num": "5",
     "head": "ANIMATSIYA",
     "l1": "Kam va bir xil",
-    "l2": "har slaydda boshqa emas"
+    "l2": "har slaydda boşqa emas"
    },
    {
     "type": "cta",
     "l1": "SAQLAB",
-    "l2": "QO'YING",
+    "l2": "QÖYING",
     "q": "Qaysi qoidani buzgansiz?"
    }
   ]

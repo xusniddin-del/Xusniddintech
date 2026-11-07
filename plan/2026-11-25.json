@@ -3,8 +3,8 @@
  "type": "carousel",
  "time": "19:00",
  "topic": "kiber",
- "title": "Ma'lumotlarni YO'QOTMANG",
- "caption": "Ma'lumotlarni yo'qotmang\n3-2-1 zaxira qoidasi 👇\n\n1) 3 NUSXA\nMuhim fayl — 3 ta nusxada saqlansin\n\n2) 2 XIL JOY\nKompyuter + fleshka, yoki tashqi disk\n\n3) 1 TASI UZOQDA\nBulut: Google Drive, OneDrive, iCloud\n\n4) AVTOMATIK\nZaxirani avto, rejimga qo'ying\n\n5) TEKSHIRING\nOyiga bir marta, fayl ochilishini sinang\n\n💾 Saqlab qo'ying, kerak bo'ladi.\n💬 Siz oxirgi marta qachon zaxira qilgansiz?\n\n#kiberxavfsizlik #xavfsizlik #parol #xusniddintech #ozbekcha",
+ "title": "Ma'lumotlarni YÖQOTMANG",
+ "caption": "Ma'lumotlarni yöqotmang\n3-2-1 zaxira qoidasi 👇\n\n1) 3 NUSXA\nMuhim fayl — 3 ta nusxada saqlansin\n\n2) 2 XIL JOY\nKompyuter + fleşka, yoki taşqi disk\n\n3) 1 TASI UZOQDA\nBulut: Google Drive, OneDrive, iCloud\n\n4) AVTOMATIK\nZaxirani avto, rejimga qöying\n\n5) TEKŞIRING\nOyiga bir marta, fayl oçilişini sinang\n\n💾 Saqlab qöying, kerak böladi.\n💬 Siz oxirgi marta qaçon zaxira qilgansiz?\n\n#kiberxavfsizlik #xavfsizlik #parol #xusniddintech #ozbekcha",
  "media": [
   "https://raw.githubusercontent.com/xusniddin-del/Xusniddintech/instagram-media/media/2026-11-25/01.jpg",
   "https://raw.githubusercontent.com/xusniddin-del/Xusniddintech/instagram-media/media/2026-11-25/02.jpg",
@@ -25,7 +25,7 @@
       "ink"
      ],
      [
-      "YO'QOTMANG",
+      "YÖQOTMANG",
       "black",
       "blue"
      ]
@@ -46,8 +46,8 @@
     "pill": "02",
     "num": "2",
     "head": "2 XIL JOY",
-    "l1": "Kompyuter + fleshka",
-    "l2": "yoki tashqi disk"
+    "l1": "Kompyuter + fleşka",
+    "l2": "yoki taşqi disk"
    },
    {
     "type": "number",
@@ -63,21 +63,21 @@
     "num": "4",
     "head": "AVTOMATIK",
     "l1": "Zaxirani avto",
-    "l2": "rejimga qo'ying"
+    "l2": "rejimga qöying"
    },
    {
     "type": "number",
     "pill": "05",
     "num": "5",
-    "head": "TEKSHIRING",
+    "head": "TEKŞIRING",
     "l1": "Oyiga bir marta",
-    "l2": "fayl ochilishini sinang"
+    "l2": "fayl oçilişini sinang"
    },
    {
     "type": "cta",
     "l1": "SAQLAB",
-    "l2": "QO'YING",
-    "q": "Siz oxirgi marta qachon zaxira qilgansiz?"
+    "l2": "QÖYING",
+    "q": "Siz oxirgi marta qaçon zaxira qilgansiz?"
    }
   ]
  }

@@ -4,7 +4,7 @@
  "time": "19:30",
  "topic": "vibe",
  "title": "Telegram bot KODSIZ YASAYMIZ",
- "caption": "Telegram bot kodsiz yasaymiz 🎬\n\n1) BOTFATHER\n/newbot — nom bering, token oling\n\n2) PROMPT\n\"Python'da bot yoz: salom desa javob bersin\"\n\n3) TOKENNI ASRANG\nTokenni hech kimga, ko'rsatmang\n\n💾 Saqlab qo'ying va do'stingizga yuboring.\n🔔 Har kuni foydali kontent — kuzatib boring.\n\n#vibecoding #dasturlash #ai #xusniddintech #ozbekcha",
+ "caption": "Telegram bot kodsiz yasaymiz 🎬\n\n1) BOTFATHER\n/newbot — nom bering, token oling\n\n2) PROMPT\n\"Python'da bot yoz: salom desa javob bersin\"\n\n3) TOKENNI ASRANG\nTokenni heç kimga, körsatmang\n\n💾 Saqlab qöying va döstingizga yuboring.\n🔔 Har kuni foydali kontent — kuzatib boring.\n\n#vibecoding #dasturlash #ai #xusniddintech #ozbekcha",
  "media": [
   "https://raw.githubusercontent.com/xusniddin-del/Xusniddintech/instagram-media/media/2026-11-22.mp4"
  ],
@@ -57,7 +57,7 @@
      "BOTFATHER",
      "TOKEN",
      "PROMPT",
-     "ISHGA TUSHIRISH"
+     "IŞGA TUŞIRIŞ"
     ]
    },
    {
@@ -81,15 +81,15 @@
     "dur": 3.3,
     "num": "3",
     "head": "TOKENNI ASRANG",
-    "l1": "Tokenni hech kimga",
-    "l2": "ko'rsatmang"
+    "l1": "Tokenni heç kimga",
+    "l2": "körsatmang"
    },
    {
     "type": "words",
     "dur": 3.0,
     "lines": [
      [
-      "birinchi botingiz",
+      "birinçi botingiz",
       "light",
       "ink"
      ],
@@ -104,10 +104,10 @@
     "type": "subscribe",
     "dur": 4.6,
     "title": "SAHIFAMIZGA",
-    "sub": "obuna bo'ling",
+    "sub": "obuna böling",
     "handle": "xusniddintech",
     "button": "Obuna",
-    "thanks": "Yashang!",
+    "thanks": "Yaşang!",
     "tap_at": 2.0
    }
   ]

@@ -3,8 +3,8 @@
  "type": "video",
  "time": "20:00",
  "topic": "scratch",
- "title": "Qahramonni KLAVIATURA BILAN BOSHQARING",
- "caption": "Qahramonni klaviatura bilan boshqaring 🎬\n\n1) TUGMA BOSILGANDA\n\"O'ng strelka bosilganda\" blokini oling\n\n2) X NI O'ZGARTIR\nO'ngga +10, chapga -10\n\n3) Y NI O'ZGARTIR\nYuqoriga +10, pastga -10\n\n💾 Saqlab qo'ying va do'stingizga yuboring.\n🔔 Har kuni foydali kontent — kuzatib boring.\n\n#scratch #bolalaruchun #dasturlash #xusniddintech #ozbekcha",
+ "title": "Qahramonni KLAVIATURA BILAN BOŞQARING",
+ "caption": "Qahramonni klaviatura bilan boşqaring 🎬\n\n1) TUGMA BOSILGANDA\n\"Öng strelka bosilganda\" blokini oling\n\n2) X NI ÖZGARTIR\nÖngga +10, çapga -10\n\n3) Y NI ÖZGARTIR\nYuqoriga +10, pastga -10\n\n💾 Saqlab qöying va döstingizga yuboring.\n🔔 Har kuni foydali kontent — kuzatib boring.\n\n#scratch #bolalaruchun #dasturlash #xusniddintech #ozbekcha",
  "media": [
   "https://raw.githubusercontent.com/xusniddin-del/Xusniddintech/instagram-media/media/2026-11-14.mp4"
  ],
@@ -26,7 +26,7 @@
       "ink"
      ],
      [
-      "BILAN BOSHQARING",
+      "BILAN BOŞQARING",
       "black",
       "blue"
      ]
@@ -52,12 +52,12 @@
     "type": "cards",
     "dur": 4.2,
     "kicker": "Tugmalar",
-    "title": "4 YO'NALISH",
+    "title": "4 YÖNALIŞ",
     "cards": [
      "YUQORI",
      "PASTGA",
-     "CHAPGA",
-     "O'NGGA"
+     "ÇAPGA",
+     "ÖNGGA"
     ]
    },
    {
@@ -65,22 +65,22 @@
     "dur": 3.3,
     "num": "1",
     "head": "TUGMA BOSILGANDA",
-    "l1": "\"O'ng strelka bosilganda\"",
+    "l1": "\"Öng strelka bosilganda\"",
     "l2": "blokini oling"
    },
    {
     "type": "number",
     "dur": 3.3,
     "num": "2",
-    "head": "X NI O'ZGARTIR",
-    "l1": "O'ngga +10",
-    "l2": "chapga -10"
+    "head": "X NI ÖZGARTIR",
+    "l1": "Öngga +10",
+    "l2": "çapga -10"
    },
    {
     "type": "number",
     "dur": 3.3,
     "num": "3",
-    "head": "Y NI O'ZGARTIR",
+    "head": "Y NI ÖZGARTIR",
     "l1": "Yuqoriga +10",
     "l2": "pastga -10"
    },
@@ -89,7 +89,7 @@
     "dur": 3.0,
     "lines": [
      [
-      "endi o'yin",
+      "endi öyin",
       "light",
       "ink"
      ],
@@ -104,10 +104,10 @@
     "type": "subscribe",
     "dur": 4.6,
     "title": "SAHIFAMIZGA",
-    "sub": "obuna bo'ling",
+    "sub": "obuna böling",
     "handle": "xusniddintech",
     "button": "Obuna",
-    "thanks": "Yashang!",
+    "thanks": "Yaşang!",
     "tap_at": 2.0
    }
   ]

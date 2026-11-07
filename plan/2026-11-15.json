@@ -3,8 +3,8 @@
  "type": "video",
  "time": "19:30",
  "topic": "vibe",
- "title": "Xato chiqdimi? AI TUZATADI",
- "caption": "Xato chiqdimi? AI tuzatadi 🎬\n\n1) TO'LIQ XATO\nXato matnini, to'liq nusxalab bering\n\n2) NIMA QILDINGIZ\nQaysi tugmani bosganda, xato chiqdi\n\n3) SABABINI SO'RANG\n\"Nega bo'ldi?\" — keyingi safar o'zingiz bilasiz\n\n💾 Saqlab qo'ying va do'stingizga yuboring.\n🔔 Har kuni foydali kontent — kuzatib boring.\n\n#vibecoding #dasturlash #ai #xusniddintech #ozbekcha",
+ "title": "Xato çiqdimi? AI TUZATADI",
+ "caption": "Xato çiqdimi? AI tuzatadi 🎬\n\n1) TÖLIQ XATO\nXato matnini, töliq nusxalab bering\n\n2) NIMA QILDINGIZ\nQaysi tugmani bosganda, xato çiqdi\n\n3) SABABINI SÖRANG\n\"Nega böldi?\" — keyingi safar özingiz bilasiz\n\n💾 Saqlab qöying va döstingizga yuboring.\n🔔 Har kuni foydali kontent — kuzatib boring.\n\n#vibecoding #dasturlash #ai #xusniddintech #ozbekcha",
  "media": [
   "https://raw.githubusercontent.com/xusniddin-del/Xusniddintech/instagram-media/media/2026-11-15.mp4"
  ],
@@ -16,7 +16,7 @@
     "dur": 3.2,
     "lines": [
      [
-      "Xato chiqdimi?",
+      "Xato çiqdimi?",
       "light",
       "ink"
      ],
@@ -37,12 +37,12 @@
     "dur": 2.6,
     "lines": [
      [
-      "faqat to'g'ri",
+      "faqat töğri",
       "light",
       "ink"
      ],
      [
-      "SO'RANG",
+      "SÖRANG",
       "black",
       "blue"
      ]
@@ -52,7 +52,7 @@
     "type": "cards",
     "dur": 4.2,
     "kicker": "Xato",
-    "title": "TUZATISH",
+    "title": "TUZATIŞ",
     "cards": [
      "XATO MATNI",
      "KONTEKST",
@@ -64,9 +64,9 @@
     "type": "number",
     "dur": 3.3,
     "num": "1",
-    "head": "TO'LIQ XATO",
+    "head": "TÖLIQ XATO",
     "l1": "Xato matnini",
-    "l2": "to'liq nusxalab bering"
+    "l2": "töliq nusxalab bering"
    },
    {
     "type": "number",
@@ -74,15 +74,15 @@
     "num": "2",
     "head": "NIMA QILDINGIZ",
     "l1": "Qaysi tugmani bosganda",
-    "l2": "xato chiqdi"
+    "l2": "xato çiqdi"
    },
    {
     "type": "number",
     "dur": 3.3,
     "num": "3",
-    "head": "SABABINI SO'RANG",
-    "l1": "\"Nega bo'ldi?\" —",
-    "l2": "keyingi safar o'zingiz bilasiz"
+    "head": "SABABINI SÖRANG",
+    "l1": "\"Nega böldi?\" —",
+    "l2": "keyingi safar özingiz bilasiz"
    },
    {
     "type": "words",
@@ -104,10 +104,10 @@
     "type": "subscribe",
     "dur": 4.6,
     "title": "SAHIFAMIZGA",
-    "sub": "obuna bo'ling",
+    "sub": "obuna böling",
     "handle": "xusniddintech",
     "button": "Obuna",
-    "thanks": "Yashang!",
+    "thanks": "Yaşang!",
     "tap_at": 2.0
    }
   ]
