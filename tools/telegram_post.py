@@ -51,11 +51,17 @@ def main(paths):
         raise SystemExit("TELEGRAM_BOT_TOKEN yoki TELEGRAM_CHAT_ID secret'i qo'shilmagan (Settings → Secrets and variables → Actions).")
     def call(method, **params):
         q = urllib.parse.urlencode(params)
-        try:
-            with urllib.request.urlopen(API + method + ("?" + q if q else ""), timeout=30) as r:
-                return json.load(r)
-        except urllib.error.HTTPError as e:
-            return json.loads(e.read() or b"{}")
+        for attempt in range(5):
+            try:
+                with urllib.request.urlopen(API + method + ("?" + q if q else ""), timeout=30) as r:
+                    return json.load(r)
+            except urllib.error.HTTPError as e:
+                return json.loads(e.read() or b"{}")
+            except (TimeoutError, urllib.error.URLError, OSError) as e:
+                if attempt == 4:
+                    raise
+                print(f"::warning::{method} xato ({e}), {10 * (attempt + 1)}s dan keyin qayta urinish")
+                time.sleep(10 * (attempt + 1))
     me = call("getMe")
     if not me.get("ok"):
         raise SystemExit(f"Bot tokeni noto'g'ri: {me.get('description')}")
