@@ -116,5 +116,6 @@
     "tap_at": 2.0
    }
   ]
- }
+ },
+ "thumbnail_offset_ms": 200
 }
