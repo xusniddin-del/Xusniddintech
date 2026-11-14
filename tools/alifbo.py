@@ -11,7 +11,7 @@ SKIP_STEMS = ("scratch", "chatgpt", "finish", "shift", "shortcut", "unsplash", "
               "canva", "figma", "github", "windows", "microsoft", "excel", "powerpoint", "illustrator")
 SKIP_EXACT = {"tech", "black", "blue", "ink", "light", "calm", "playful", "cards", "cover", "cta",
               "number", "subscribe", "words"}
-SKIP_KEYS = {"type", "mood", "handle", "media", "date", "time", "topic", "url"}
+SKIP_KEYS = {"type", "mood", "handle", "media", "date", "time", "topic", "url", "voice", "voiced", "thumbnail_offset_ms"}
 
 def _case(src, up, low):
     return up if src[0].isupper() else low
