@@ -106,5 +106,15 @@
     "tap_at": 2.0
    }
   ]
- }
+ },
+ "voice": [
+  "Rang palitrasini o'n soniyada tanlang!",
+  "Buning uchun tayyor saytlar bor.",
+  "Coolors, Adobe Color, Color Hunt va Happy Hues.",
+  "Birinchi, Coolors: probelni bosing, yangi palitra chiqadi. Yoqqan rangni qulflab qo'ying.",
+  "Ikkinchi, Adobe Color: rasmdan ranglarni ajratib oladi.",
+  "Uchinchi, Color Hunt: tayyor, mashhur palitralar.",
+  "Esda tuting: ranglar, bu kayfiyat.",
+  "Saqlab qo'ying va obuna bo'ling."
+ ]
 }

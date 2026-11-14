@@ -116,5 +116,15 @@
     "tap_at": 2.0
    }
   ]
- }
+ },
+ "voice": [
+  "Qaysi sun'iy intellekt sizga kerak?",
+  "To'rtta asosiy yordamchi bor.",
+  "ChatGPT, Claude, Gemini va Perplexity.",
+  "Birinchi, ChatGPT: universal yordamchi. Rasm, ovoz va matn bilan ishlaydi.",
+  "Ikkinchi, Claude: uzun matn va kod uchun. Yaxshi tahlil qiladi va yozadi.",
+  "Uchinchi, Perplexity: internetdan qidiradi va manbalarini ko'rsatadi.",
+  "Bittasini tanlang va har kuni ishlating!",
+  "Saqlab qo'ying va obuna bo'ling."
+ ]
 }
