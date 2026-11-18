@@ -82,6 +82,7 @@ def main(paths):
             files.append(download(url, f"/tmp/{os.path.basename(p)}_{i}{ext}"))
         print(f"{p}: {len(files)} ta fayl yuklandi")
         jobs.append((datetime.fromisoformat(m["post_at"]), m, files))
+    failed = []
     for when, m, files in sorted(jobs, key=lambda j: j[0]):
         wait = (when - datetime.now(timezone.utc)).total_seconds()
         if os.environ.get("SEND_NOW") != "1" and wait > 5.6 * 3600:
@@ -90,23 +91,43 @@ def main(paths):
         if os.environ.get("SEND_NOW") != "1" and wait > 0:
             print(f"{when.isoformat()} gacha {int(wait // 60)} daqiqa kutiladi")
             time.sleep(wait)
-        cap = tg_caption(m.get("caption", ""))
-        if m["type"] == "text":
-            multipart("sendMessage", {"chat_id": CHAT, "text": m.get("caption", "")}, {})
-        elif m["type"] == "video":
-            multipart("sendVideo", {"chat_id": CHAT, "caption": cap, "supports_streaming": "true", "width": "1080", "height": "1920"},
-                      {"video": ("reel.mp4", files[0], "video/mp4")})
-        elif len(files) == 1:
-            multipart("sendPhoto", {"chat_id": CHAT, "caption": cap}, {"photo": ("p.jpg", files[0], "image/jpeg")})
-        else:
-            for start in range(0, len(files), 10):
-                chunk = files[start:start + 10]
-                media = [{"type": "photo", "media": f"attach://f{i}"} for i in range(len(chunk))]
-                if start == 0:
-                    media[0]["caption"] = cap
-                multipart("sendMediaGroup", {"chat_id": CHAT, "media": json.dumps(media, ensure_ascii=False)},
-                          {f"f{i}": (f"{i}.jpg", f, "image/jpeg") for i, f in enumerate(chunk)})
-        print(f"Yuborildi: {m['type']} ({when.isoformat()})")
+        # "chats": optional list of extra/other channels; "default" = TELEGRAM_CHAT_ID secret
+        chats = [CHAT if c == "default" else c for c in (m.get("chats") or ["default"])]
+        for chat in chats:
+            if chat != CHAT:
+                adm = call("getChatMember", chat_id=chat, user_id=me["result"]["id"])
+                st = adm.get("result", {})
+                if not adm.get("ok") or st.get("status") not in ("administrator", "creator") or st.get("can_post_messages") is False:
+                    print(f"::error::{chat}: bot kanalda admin emas yoki joylash huquqi yo'q ({adm.get('description') or st.get('status')})")
+                    failed.append(chat)
+                    continue
+            try:
+                send(chat, m, files)
+                print(f"Yuborildi: {m['type']} -> {chat} ({when.isoformat()})")
+            except SystemExit as e:
+                print(f"::error::{chat}: {e.code}")
+                failed.append(chat)
+    if failed:
+        raise SystemExit(f"Ba'zi kanallarga yuborilmadi: {', '.join(sorted(set(failed)))}")
+
+
+def send(chat, m, files):
+    cap = tg_caption(m.get("caption", ""))
+    if m["type"] == "text":
+        multipart("sendMessage", {"chat_id": chat, "text": m.get("caption", "")}, {})
+    elif m["type"] == "video":
+        multipart("sendVideo", {"chat_id": chat, "caption": cap, "supports_streaming": "true", "width": "1080", "height": "1920"},
+                  {"video": ("reel.mp4", files[0], "video/mp4")})
+    elif len(files) == 1:
+        multipart("sendPhoto", {"chat_id": chat, "caption": cap}, {"photo": ("p.jpg", files[0], "image/jpeg")})
+    else:
+        for start in range(0, len(files), 10):
+            chunk = files[start:start + 10]
+            media = [{"type": "photo", "media": f"attach://f{i}"} for i in range(len(chunk))]
+            if start == 0:
+                media[0]["caption"] = cap
+            multipart("sendMediaGroup", {"chat_id": chat, "media": json.dumps(media, ensure_ascii=False)},
+                      {f"f{i}": (f"{i}.jpg", f, "image/jpeg") for i, f in enumerate(chunk)})
 
 
 if __name__ == "__main__":
